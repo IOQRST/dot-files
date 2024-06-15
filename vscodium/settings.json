@@ -1,0 +1,77 @@
+{
+	// Terminal
+	"terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
+	"terminal.integrated.defaultProfile.windows": "Git Bash",
+
+	// Editor
+	"editor.fontFamily": "'CaskaydiaCove Nerd Font', 'Font Awesome 6 Free', 'Font Awesome 6 Free Solid', 'Font Awesome 6 Brands', 'Material Icons'",
+	"editor.fontLigatures": true,
+	"editor.fontSize": 16,
+	"editor.rulers": [99],
+	"editor.fontWeight": "normal",
+	"editor.cursorBlinking": "expand",
+	"editor.formatOnSave": true,
+	"editor.tabSize": 4,
+	"editor.insertSpaces": false,
+	"editor.minimap.enabled": false,
+	"editor.unicodeHighlight.ambiguousCharacters": false,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.glyphMargin": false,
+	"editor.autoClosingQuotes": "always",
+	"editor.autoClosingBrackets": "always",
+
+	// Workbench
+	"workbench.startupEditor": "none",
+	"workbench.sideBar.location": "left",
+	"workbench.editorAssociations": {
+		"*.vsix": "default"
+	},
+	"workbench.iconTheme": "ayu",
+	"workbench.colorTheme": "Ayu Mirage",
+	"explorer.compactFolders": false,
+
+	// Telemetry
+	"telemetry.telemetryLevel": "off",
+	"telemetry.enableCrashReporter": false,
+	"telemetry.enableTelemetry": false,
+
+	// Formatter
+	"prettier.tabWidth": 4,
+	"prettier.printWidth": 250,
+	"prettier.useTabs": true,
+	"prettier.singleQuote": true,
+	"[python]": {
+		"editor.formatOnType": true,
+		"editor.formatOnSave": true,
+		"editor.defaultFormatter": "ms-python.black-formatter"
+	},
+
+	// Remove trust banner
+	"security.workspace.trust.banner": "never",
+
+	// remove LiveServer Message
+	"liveServer.settings.donotShowInfoMsg": true,
+
+	// SpellChecker
+	"cSpell.language": "en, ru",
+	"cSpell.enabled": true,
+
+	// Markdown Preview
+	"markdown-preview-enhanced.mermaidTheme": "dark",
+	"markdown-preview-enhanced.previewTheme": "one-dark.css",
+
+	// Emmet
+	"emmet.useInlineCompletions": true,
+	"emmet.triggerExpansionOnTab": true,
+
+	// Remove recommendations
+	"extensions.ignoreRecommendations": true,
+
+	// Files
+	"files.autoSave": "afterDelay",
+	"files.associations": {
+		"*html": "html",
+		"*css": "css",
+		"*.txt": "plaintext"
+	}
+}

@@ -1,0 +1,24 @@
+//
+lockPref('toolkit.telemetry.enabled', false);
+lockPref('browser.newtabpage.activity-stream.feeds.telemetry', false);
+lockPref('browser.newtabpage.activity-stream.telemetry', false);
+lockPref('browser.ping-centre.telemetry', false);
+lockPref('toolkit.telemetry.archive.enabled', false);
+lockPref('toolkit.telemetry.bhrPing.enabled', false);
+lockPref('toolkit.telemetry.firstShutdownPing.enabled', false);
+lockPref('toolkit.telemetry.hybridContent.enabled', false);
+lockPref('toolkit.telemetry.reportingpolicy.firstRun', false);
+lockPref('toolkit.telemetry.shutdownPingSender.enabled', false);
+lockPref('toolkit.telemetry.unified', false);
+lockPref('oolkit.telemetry.updatePing.enabled', false);
+lockPref('experiments.activeExperiment', false);
+lockPref('experiments.enabled', false);
+lockPref('experiments.supported', false);
+lockPref('network.allow-experiments', false);
+lockPref('network.dns.disablePrefetch', true);
+lockPref('network.dns.disablePrefetchFromHTTPS', true);
+lockPref('network.predictor.enabled', false);
+lockPref('network.predictor.enable-prefetch', false);
+lockPref('network.prefetch-next', false);
+lockPref('devtools.netmonitor.responseBodyLimit', 0);
+lockPref('toolkit.legacyUserProfileCustomizations.stylesheets', true);
