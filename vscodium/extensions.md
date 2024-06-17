@@ -28,4 +28,3 @@
 | Russian - Code Spell Checker | @streetsidesoftware |
 | Svelte for VS Code           | @svelte             |
 | Todo Tree                    | @Gruntfuggly        |
-| VSCode Neovim                | @asvetliakov        |
