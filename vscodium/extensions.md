@@ -4,10 +4,10 @@
 | ---------------------------- | ------------------- |
 | Auto Close Tag               | @formulahendry      |
 | Auto Rename Tag              | @formulahendry      |
+| autopep8                     | @ms-python          |
 | Ayu                          | @teabyii            |
 | Babel JavaScript             | @mgmcdermott        |
 | Better Comments              | @aaron-bond         |
-| Black Formatter              | @ms-python          |
 | Code Spell Checker           | @streetsidesoftware |
 | Color Highlight              | @naumovs            |
 | Dart                         | @Dart-Code          |
