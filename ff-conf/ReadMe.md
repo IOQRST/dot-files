@@ -1,13 +1,11 @@
 # Firefox расширения
 
-1. Angular DevTools
 1. AudioContext Fingerprint Defender
 1. Canvas Defender
 1. ClearURLs
 1. Cookie-Editor
 1. Decentraleyes
 1. Disconnect
-1. Enhancer for YouTube
 1. Firefox Multi-Account Containers
 1. ImTranslator: Переводчик, Словарь, Голос
 1. Privacy Badger

@@ -1,20 +1,31 @@
 {
 	// Terminal
 	"terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
+	"terminal.integrated.fontWeight": "100",
 	"terminal.integrated.defaultProfile.windows": "Git Bash",
   
 	// Editor
-	"editor.fontFamily": "'CaskaydiaCove Nerd Font', 'Font Awesome 6 Free', 'Font Awesome 6 Free Solid', 'Font Awesome 6 Brands', 'Material Icons'",
+	"editor.fontFamily": "'CaskaydiaCove Nerd Font Mono', 'Symbols Nerd Font Mono', 'Symbols Nerd Font Mono Regular'",
 	"editor.fontLigatures": true,
 	"editor.fontSize": 16,
 	"editor.rulers": [80],
-	"editor.fontWeight": "normal",
+	"editor.fontWeight": "100",
 	"editor.cursorBlinking": "expand",
 	"editor.formatOnSave": true,
 	"editor.minimap.enabled": false,
 	"editor.unicodeHighlight.ambiguousCharacters": false,
 	"editor.defaultFormatter": "esbenp.prettier-vscode",
 	"editor.glyphMargin": false,
+	"editor.tokenColorCustomizations": {
+	  "textMateRules": [
+		{
+		  "scope": ["comment", "comment.block", "comment.block.documentation", "comment.line", "comment.line.double-slash", "punctuation.definition.comment", "multilineComments"],
+		  "settings": {
+			"fontStyle": "italic"
+		  }
+		}
+	  ]
+	},
   
 	// Workbench
 	"workbench.startupEditor": "none",
@@ -22,8 +33,6 @@
 	"workbench.editorAssociations": {
 	  "*.vsix": "default"
 	},
-	"workbench.iconTheme": "ayu",
-	"workbench.colorTheme": "Ayu Mirage",
 	"explorer.compactFolders": false,
   
 	// Telemetry
@@ -73,6 +82,10 @@
 	},
 	"extensions.experimental.affinity": {
 	  "asvetliakov.vscode-neovim": 1
-	}
+	},
+	"editor.unicodeHighlight.nonBasicASCII": false,
+	"workbench.iconTheme": "simple-icons",
+	"symbols.hidesExplorerArrows": false,
+	"workbench.colorTheme": "One Dark Pro Flat"
   }
   

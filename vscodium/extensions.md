@@ -5,7 +5,6 @@
 | Auto Close Tag               | @formulahendry      |
 | Auto Rename Tag              | @formulahendry      |
 | autopep8                     | @ms-python          |
-| Ayu                          | @teabyii            |
 | Babel JavaScript             | @mgmcdermott        |
 | Better Comments              | @aaron-bond         |
 | Code Spell Checker           | @streetsidesoftware |
@@ -19,6 +18,7 @@
 | Import Cost                  | @wix                |
 | Live Server                  | @ritwickdey         |
 | Markdown Preview Enhanced    | @shd101wyy          |
+| One Dark Pro                 | @zhuangtongfa       |
 | Path Intellisense            | @christian-kohler   |
 | Prettier - Code formatter    | @esbenp             |
 | Prettier Eslint              | @rvest              |
@@ -26,5 +26,6 @@
 | Python Debugger              | @ms-python          |
 | Python Type Hint             | @njqdev             |
 | Russian - Code Spell Checker | @streetsidesoftware |
+| Simple Icons                 | @LaurentTreguier    |
 | Svelte for VS Code           | @svelte             |
 | Todo Tree                    | @Gruntfuggly        |
