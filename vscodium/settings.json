@@ -1,7 +1,6 @@
 {
 	// Terminal
 	"terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
-	"terminal.integrated.fontWeight": "100",
 	"terminal.integrated.defaultProfile.windows": "Git Bash",
   
 	// Editor
@@ -9,7 +8,6 @@
 	"editor.fontLigatures": true,
 	"editor.fontSize": 16,
 	"editor.rulers": [80],
-	"editor.fontWeight": "100",
 	"editor.cursorBlinking": "expand",
 	"editor.formatOnSave": true,
 	"editor.minimap.enabled": false,
