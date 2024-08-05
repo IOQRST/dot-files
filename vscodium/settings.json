@@ -62,7 +62,7 @@
 
   // Markdown Preview
   "markdown-preview-enhanced.mermaidTheme": "dark",
-  "markdown-preview-enhanced.previewTheme": "one-dark.css",
+  "markdown-preview-enhanced.previewTheme": "none.css",
 
   // Emmet
   "emmet.useInlineCompletions": true,
