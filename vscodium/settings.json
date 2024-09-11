@@ -48,7 +48,7 @@
     "editor.insertSpaces": true,
     "editor.formatOnType": true,
     "editor.formatOnSave": true,
-    "editor.defaultFormatter": "ms-python.autopep8"
+    "editor.defaultFormatter": "ms-python.black-formatter"
   },
   // Remove trust banner
   "security.workspace.trust.banner": "never",
@@ -78,35 +78,9 @@
     "*css": "css",
     "*.txt": "plaintext"
   },
-  "extensions.experimental.affinity": {
-    "asvetliakov.vscode-neovim": 1
-  },
   "editor.unicodeHighlight.nonBasicASCII": false,
-  "symbols.hidesExplorerArrows": false,
-  "markdown-preview-enhanced.codeBlockTheme": "darcula.css",
+  "markdown-preview-enhanced.codeBlockTheme": "one-dark.css",
   "oneDarkPro.editorTheme": "One Dark Pro Flat",
-  "nebulaOni.update.restoreConfiguration": {
-    "themeSettings": {
-      "background": "Grey",
-      "main": "Bumblebee",
-      "highlight": "Ultra Violet",
-      "focusBorder": "ON",
-      "fontStyle": "Italic",
-      "syntaxBrightness": "Normal",
-      "comments": "Dark Violet",
-      "favorite": "OFF"
-    },
-    "favoriteSettings": {
-      "background": "Glacial Blue",
-      "main": "Sakura",
-      "highlight": "Ultra Violet",
-      "focusBorder": "ON",
-      "fontStyle": "Italic",
-      "syntaxBrightness": "Dimmed",
-      "comments": "Dark Magenta",
-      "favorite": "Nebula Oni (Pegasus)"
-    }
-  },
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "One Dark Pro Flat"
 }
