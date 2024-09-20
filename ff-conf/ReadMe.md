@@ -16,7 +16,7 @@
 1. uBlock Origin
 1. Web Archives
 1. Youtube Tabs
-1. Proxy - [CopyLink](https://antizapret.prostovpn.org:18443/proxy.pac)
+1. Proxy - [CopyLink](https://gateway.pinata.cloud/ipfs/QmNNEJkTAvtppJ5nV3TTywHYoJtzhAydqWLVaaAs4stAyy/proxy-ssl.js)
 
 # Базовые настройки приватности для firefox
 
