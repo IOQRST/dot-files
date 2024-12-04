@@ -12,7 +12,7 @@
   "editor.minimap.enabled": false,
   "editor.unicodeHighlight.ambiguousCharacters": false,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.glyphMargin": false,
+  "editor.glyphMargin": true,
   "editor.tokenColorCustomizations": {
     "textMateRules": [
       {
