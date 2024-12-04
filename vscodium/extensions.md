@@ -280,10 +280,10 @@
     </tr>
     <tr>
         <td>
-            Symbols
+            vscode-icons
         </td>
         <td>
-            @castrogusttavo
+            @vscode-icons-team
         </td>
     </tr>
 </table>

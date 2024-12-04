@@ -28,7 +28,8 @@
   "workbench.startupEditor": "none",
   "workbench.sideBar.location": "left",
   "workbench.editorAssociations": {
-    "*.vsix": "default"
+    "*.vsix": "default",
+    "{git,gitlens,git-graph}:/**/*.{md,csv,svg}": "default"
   },
   "explorer.compactFolders": false,
 
@@ -77,6 +78,6 @@
   },
   "editor.unicodeHighlight.nonBasicASCII": false,
   "workbench.colorTheme": "Andromeda Italic",
-  "symbols.hidesExplorerArrows": false,
-  "workbench.iconTheme": "symbols"
+  "workbench.iconTheme": "vscode-icons",
+  "vsicons.dontShowNewVersionMessage": true
 }
