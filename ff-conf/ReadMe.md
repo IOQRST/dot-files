@@ -16,7 +16,7 @@
 1. uBlock Origin
 1. Web Archives
 1. Youtube Tabs
-1. Proxy - [CopyLink](https://gateway.pinata.cloud/ipfs/QmNNEJkTAvtppJ5nV3TTywHYoJtzhAydqWLVaaAs4stAyy/proxy-ssl.js)
+1. Proxy - [CopyLink](https://p.thenewone.lol:8443/proxy.pac)
 
 # Базовые настройки приватности для firefox
 
@@ -27,3 +27,5 @@
 1. В раздел `<Install_dir>` поместить файл [firefox.cfg.js](js/firefox.cfg.js)
 
 1. В папке профиля создать папку `chrome` и поместить в него [userChrome.css](chrome/userChrome.css) и [userContent.css](chrome/userContent.css)
+
+1. На вкладке `Приватность и защита` в разделе `Включить DNS через HTTPS, используя:` выбрать `Максимальную защиту`. В поставщике указать `Другой URL` и указать [CopyLink](https://freedns.controld.com/p1). 

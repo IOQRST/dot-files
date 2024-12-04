@@ -1,34 +1,289 @@
 # Расширения
 
-| Расширение                   | Автор               |
-| ---------------------------- | ------------------- |
-| Auto Close Tag               | @formulahendry      |
-| Auto Rename Tag              | @formulahendry      |
-| Babel JavaScript             | @mgmcdermott        |
-| Better Comments              | @aaron-bond         |
-| Black Formatter              | @ms-python          |
-| Code Spell Checker           | @streetsidesoftware |
-| Color Highlight              | @naumovs            |
-| Dart                         | @Dart-Code          |
-| Django                       | @batisteo           |
-| Docker                       | @ms-azuretools      |
-| Error Lens                   | @usernamehw         |
-| Flake8                       | @ms-python          |
-| Flutter                      | @Dart-Code          |
-| GitLens - Git supercharged   | @eamodio            |
-| Import Cost                  | @wix                |
-| Live Server                  | @ritwickdey         |
-| Markdown Preview Enhanced    | @shd101wyy          |
-| Material Icon Theme          | @PKief              |
-| One Dark Pro                 | @zhuangtongfa       |
-| Path Intellisense            | @christian-kohler   |
-| Prettier - Code formatter    | @esbenp             |
-| Prettier Eslint              | @rvest              |
-| Python                       | @ms-python          |
-| Python Debugger              | @ms-python          |
-| Python Ident                 | @KevinRose          |
-| Python Type Hint             | @njqdev             |
-| Ruff                         | @charliermarsh      |
-| Russian - Code Spell Checker | @streetsidesoftware |
-| Svelte for VS Code           | @svelte             |
-| Todo Tree                    | @Gruntfuggly        |
+<table>
+    <tr>
+        <th>Расширения</th>
+        <th>Автор</th>
+    </tr>
+    <tr>
+        <th colspan=2 align="center">
+            Base
+        </th>
+    </tr>
+    <tr>
+        <td>
+            Better Comments 
+        </td>
+        <td>
+            @aaron-bond
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Code Spell Checker 
+        </td>
+        <td>
+            @Street Side Software
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Russian - Code Spell Checker
+        </td>
+        <td>
+            @Street Side Software
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Color Highlight 
+        </td>
+        <td>
+            @naumovs
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Error Lens
+        </td>
+        <td>
+            @usernamehw
+        </td>
+    </tr>
+    <tr>
+        <td>
+            GitLens — Git supercharged
+        </td>
+        <td>
+            @GitKraken
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Markdown Preview Enhanced
+        </td>
+        <td>
+            @shd101wyy
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Path Intellisense
+        </td>
+        <td>
+            @christian-kohler
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Todo Tree
+        </td>
+        <td>
+            @Gruntfuggly
+        </td>
+    </tr>
+    <tr>
+        <th colspan=2 align="center">
+            JavaScript + Web
+        </th>
+    </tr>
+    <tr>
+        <td>
+            Auto Close Tag  
+        </td>
+        <td>
+            @formulahendry
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Auto Rename Tag 
+        </td>
+        <td>
+            @formulahendry
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Babel JavaScript
+        </td>
+        <td>
+            @mgmcdermott
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Import Cost
+        </td>
+        <td>
+            @wix
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Live Server 
+        </td>
+        <td>
+            @ritwickdey
+        </td>
+    </tr>
+    <tr>
+        <td>
+            MinifyAll
+        </td>
+        <td>
+            @Josee9988
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Prettier - Code formatter 
+        </td>
+        <td>
+            @esbenp
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Prettier ESLint
+        </td>
+        <td>
+            @rvest
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Svelte for VS Code
+        </td>
+        <td>
+            @svelte
+        </td>
+    </tr>
+    <tr>
+        <th colspan=2 align="center">
+            Python
+        </th>
+    </tr>
+    <tr>
+        <td>
+            Black Formatter
+        </td>
+        <td>
+            @ms-python
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Flake8
+        </td>
+        <td>
+            @ms-python
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Python
+        </td>
+        <td>
+            @ms-python
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Python Debugger
+        </td>
+        <td>
+            @ms-python
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Django
+        </td>
+        <td>
+            @batisteo
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Python Indent
+        </td>
+        <td>
+            @KevinRose
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Python Type Hint
+        </td>
+        <td>
+            @njqdev
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Ruff
+        </td>
+        <td>
+            @charliermarsh
+        </td>
+    </tr>
+    <tr>
+        <th colspan=2 align="center">
+            Dart + Flutter
+        </th>
+    </tr>
+    <tr>
+        <td>
+            Dart
+        </td>
+        <td>
+            @Dart-Code
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Flutter
+        </td>
+        <td>
+            @Dart-Code
+        </td>
+    </tr>
+    <tr>
+        <th colspan=2 align="center">
+            Themes
+        </th>
+    </tr>
+    <tr>
+        <td>
+            Andromeda Fork
+        </td>
+        <td>
+            @FelixIcaza
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Kaolin Themes
+        </td>
+        <td>
+            @zed-nait
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Ocean Space Refined
+        </td>
+        <td>
+            @Mikastiv
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Symbols
+        </td>
+        <td>
+            @castrogusttavo
+        </td>
+    </tr>
+</table>

@@ -1,11 +1,10 @@
 {
   // Terminal
-  "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
-  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.fontFamily": "Hack",
+  //"terminal.integrated.defaultProfile.windows": "Git Bash",
 
   // Editor
-  "editor.fontFamily": "'CaskaydiaCove Nerd Font Mono', 'Symbols Nerd Font Mono', 'Symbols Nerd Font Mono Regular'",
-  "editor.fontLigatures": true,
+  "editor.fontFamily": "'Hack', 'Symbols Nerd Font Mono', 'Symbols Nerd Font Mono Regular'",
   "editor.fontSize": 16,
   "editor.rulers": [80],
   "editor.cursorBlinking": "expand",
@@ -35,8 +34,7 @@
 
   // Telemetry
   "telemetry.telemetryLevel": "off",
-  "telemetry.enableCrashReporter": false,
-  "telemetry.enableTelemetry": false,
+  "runtime.args": ["--disable-crash-reporter"],
 
   // Formatter
   "prettier.tabWidth": 2,
@@ -62,7 +60,6 @@
 
   // Markdown Preview
   "markdown-preview-enhanced.mermaidTheme": "dark",
-  "markdown-preview-enhanced.previewTheme": "none.css",
 
   // Emmet
   "emmet.useInlineCompletions": true,
@@ -79,8 +76,7 @@
     "*.txt": "plaintext"
   },
   "editor.unicodeHighlight.nonBasicASCII": false,
-  "markdown-preview-enhanced.codeBlockTheme": "one-dark.css",
-  "oneDarkPro.editorTheme": "One Dark Pro Flat",
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "One Dark Pro Flat"
+  "workbench.colorTheme": "Andromeda Italic",
+  "symbols.hidesExplorerArrows": false,
+  "workbench.iconTheme": "symbols"
 }
