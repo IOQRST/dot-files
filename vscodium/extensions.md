@@ -83,6 +83,10 @@
         </td>
     </tr>
     <tr>
+        <td>Task</td>
+        <td>@task</td>
+    <tr>
+    <tr>
         <th colspan=2 align="center">
             JavaScript + Web
         </th>
@@ -166,22 +170,6 @@
     </tr>
     <tr>
         <td>
-            Black Formatter
-        </td>
-        <td>
-            @ms-python
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Flake8
-        </td>
-        <td>
-            @ms-python
-        </td>
-    </tr>
-    <tr>
-        <td>
             Python
         </td>
         <td>
@@ -247,6 +235,25 @@
         </td>
         <td>
             @Dart-Code
+        </td>
+    </tr>
+    <tr>
+        <th colspan=2 align="senter">GoLang</th>
+    </tr>
+    <tr>
+        <td>
+            Go
+        </td>
+        <td>
+            @golang
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Go Test Explorer
+        </td>
+        <td>
+            @ethan-reesor
         </td>
     </tr>
     <tr>

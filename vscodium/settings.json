@@ -47,7 +47,7 @@
     "editor.insertSpaces": true,
     "editor.formatOnType": true,
     "editor.formatOnSave": true,
-    "editor.defaultFormatter": "ms-python.black-formatter"
+    "editor.defaultFormatter": "charliermarsh.ruff"
   },
   // Remove trust banner
   "security.workspace.trust.banner": "never",
@@ -77,7 +77,7 @@
     "*.txt": "plaintext"
   },
   "editor.unicodeHighlight.nonBasicASCII": false,
-  "workbench.colorTheme": "Andromeda Italic",
   "workbench.iconTheme": "vscode-icons",
-  "vsicons.dontShowNewVersionMessage": true
+  "vsicons.dontShowNewVersionMessage": true,
+  "workbench.colorTheme": "Andromeda Italic"
 }
