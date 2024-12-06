@@ -249,14 +249,6 @@
         </td>
     </tr>
     <tr>
-        <td>
-            Go Test Explorer
-        </td>
-        <td>
-            @ethan-reesor
-        </td>
-    </tr>
-    <tr>
         <th colspan=2 align="center">
             Themes
         </th>
