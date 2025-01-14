@@ -79,5 +79,7 @@
   "editor.unicodeHighlight.nonBasicASCII": false,
   "workbench.iconTheme": "vscode-icons",
   "vsicons.dontShowNewVersionMessage": true,
-  "workbench.colorTheme": "Andromeda Italic"
+  "liveServer.settings.donotVerifyTags": true,
+  "chat.commandCenter.enabled": false,
+  "workbench.colorTheme": "Celestial"
 }

@@ -255,26 +255,10 @@
     </tr>
     <tr>
         <td>
-            Andromeda Fork
+            Celestial
         </td>
         <td>
-            @FelixIcaza
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Kaolin Themes
-        </td>
-        <td>
-            @zed-nait
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Ocean Space Refined
-        </td>
-        <td>
-            @Mikastiv
+            @apvarun
         </td>
     </tr>
     <tr>
