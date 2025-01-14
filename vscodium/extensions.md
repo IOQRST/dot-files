@@ -263,6 +263,14 @@
     </tr>
     <tr>
         <td>
+            Horizon Theme
+        </td>
+        <td>
+            @jolaleye
+        </td>
+    </tr>
+    <tr>
+        <td>
             vscode-icons
         </td>
         <td>
