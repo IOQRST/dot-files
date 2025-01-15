@@ -271,10 +271,10 @@
     </tr>
     <tr>
         <td>
-            vscode-icons
+            Eyecons
         </td>
         <td>
-            @vscode-icons-team
+            @azat-io
         </td>
     </tr>
 </table>
