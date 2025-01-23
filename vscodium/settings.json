@@ -12,7 +12,6 @@
   "editor.formatOnSave": true,
   "editor.minimap.enabled": false,
   "editor.unicodeHighlight.ambiguousCharacters": false,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.glyphMargin": true,
   "editor.tokenColorCustomizations": {
     "textMateRules": [
@@ -33,16 +32,18 @@
     "{git,gitlens,git-graph}:/**/*.{md,csv,svg}": "default"
   },
   "explorer.compactFolders": false,
+  "workbench.colorTheme": "Horizon Italic",
+  "workbench.iconTheme": "bearded-icons",
 
   // Telemetry
   "telemetry.telemetryLevel": "off",
-  "runtime.args": ["--disable-crash-reporter"],
 
   // Formatter
   "prettier.tabWidth": 2,
   "prettier.printWidth": 250,
   "prettier.useTabs": false,
   "prettier.singleQuote": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[python]": {
     "editor.tabSize": 4,
     "editor.insertSpaces": true,
@@ -61,7 +62,7 @@
   "cSpell.enabled": true,
 
   // Markdown Preview
-  "markdown-preview-enhanced.mermaidTheme": "dark",
+  "markdown-preview-enhanced.previewTheme": "github-dark.css",
 
   // Emmet
   "emmet.useInlineCompletions": true,
@@ -71,16 +72,12 @@
   "extensions.ignoreRecommendations": true,
 
   // Files
-  "files.autoSave": "afterDelay",
   "files.associations": {
     "*html": "html",
     "*css": "css",
     "*.txt": "plaintext"
   },
   "editor.unicodeHighlight.nonBasicASCII": false,
-  "vsicons.dontShowNewVersionMessage": true,
   "liveServer.settings.donotVerifyTags": true,
-  "chat.commandCenter.enabled": false,
-  "workbench.colorTheme": "Celestial",
-  "workbench.iconTheme": "bearded-icons"
+  "chat.commandCenter.enabled": false
 }
