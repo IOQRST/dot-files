@@ -1,6 +1,7 @@
 {
   // Terminal
   "terminal.integrated.fontFamily": "Hack",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
   //"terminal.integrated.defaultProfile.windows": "Git Bash",
 
   // Editor
@@ -81,5 +82,5 @@
   "liveServer.settings.donotVerifyTags": true,
   "chat.commandCenter.enabled": false,
   "workbench.colorTheme": "Celestial",
-  "workbench.iconTheme": "eyecons"
+  "workbench.iconTheme": "bearded-icons"
 }

@@ -271,10 +271,10 @@
     </tr>
     <tr>
         <td>
-            Eyecons
+            Bearded Icons
         </td>
         <td>
-            @azat-io
+            @BeardedBear
         </td>
     </tr>
 </table>
