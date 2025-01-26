@@ -255,18 +255,26 @@
     </tr>
     <tr>
         <td>
-            Celestial
+            Ayu
         </td>
         <td>
-            @apvarun
+            @teabyii
         </td>
     </tr>
     <tr>
         <td>
-            Horizon Theme
+            Night Owl
         </td>
         <td>
-            @jolaleye
+            @sdras
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Ocean Space Refined
+        </td>
+        <td>
+            @Mikastiv
         </td>
     </tr>
     <tr>
