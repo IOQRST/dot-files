@@ -277,12 +277,4 @@
             @Mikastiv
         </td>
     </tr>
-    <tr>
-        <td>
-            Bearded Icons
-        </td>
-        <td>
-            @BeardedBear
-        </td>
-    </tr>
 </table>
