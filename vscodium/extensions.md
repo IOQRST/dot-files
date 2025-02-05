@@ -255,14 +255,6 @@
     </tr>
     <tr>
         <td>
-            Ayu
-        </td>
-        <td>
-            @teabyii
-        </td>
-    </tr>
-    <tr>
-        <td>
             Night Owl
         </td>
         <td>
@@ -271,10 +263,10 @@
     </tr>
     <tr>
         <td>
-            Ocean Space Refined
+            Symbols Icon Theme
         </td>
         <td>
-            @Mikastiv
+            @wilfriedago
         </td>
     </tr>
 </table>
