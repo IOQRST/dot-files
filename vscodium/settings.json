@@ -32,7 +32,8 @@
     "{git,gitlens,git-graph}:/**/*.{md,csv,svg}": "default"
   },
   "explorer.compactFolders": false,
-  "workbench.iconTheme": "ayu",
+  "workbench.iconTheme": "symbols",
+  "symbols.hidesExplorerArrows": true,
   "workbench.colorTheme": "Night Owl",
 
   // Telemetry
