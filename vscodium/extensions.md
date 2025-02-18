@@ -255,10 +255,10 @@
     </tr>
     <tr>
         <td>
-            Night Owl
+            Nord
         </td>
         <td>
-            @sdras
+            @arcticicestudio
         </td>
     </tr>
     <tr>

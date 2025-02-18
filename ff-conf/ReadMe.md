@@ -1,6 +1,6 @@
 # Firefox расширения
 
-1. AudioContext Fingerprint Defender
+1. AudioContext Scrambler
 1. Canvas Defender
 1. ClearURLs
 1. Cookie-Editor

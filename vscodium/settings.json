@@ -34,7 +34,7 @@
   "explorer.compactFolders": false,
   "workbench.iconTheme": "symbols",
   "symbols.hidesExplorerArrows": true,
-  "workbench.colorTheme": "Night Owl",
+  "workbench.colorTheme": "Nord",
 
   // Telemetry
   "telemetry.telemetryLevel": "off",
