@@ -1,10 +1,6 @@
 {
-  // Terminal
   "terminal.integrated.fontFamily": "Hack",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  //"terminal.integrated.defaultProfile.windows": "Git Bash",
-
-  // Editor
   "editor.fontFamily": "'Hack', 'Symbols Nerd Font Mono', 'Symbols Nerd Font Mono Regular'",
   "editor.fontSize": 16,
   "editor.rulers": [80],
@@ -23,8 +19,6 @@
       }
     ]
   },
-
-  // Workbench
   "workbench.startupEditor": "none",
   "workbench.sideBar.location": "left",
   "workbench.editorAssociations": {
@@ -32,14 +26,8 @@
     "{git,gitlens,git-graph}:/**/*.{md,csv,svg}": "default"
   },
   "explorer.compactFolders": false,
-  "workbench.iconTheme": "symbols",
   "symbols.hidesExplorerArrows": true,
-  "workbench.colorTheme": "Nord",
-
-  // Telemetry
   "telemetry.telemetryLevel": "off",
-
-  // Formatter
   "prettier.tabWidth": 2,
   "prettier.printWidth": 250,
   "prettier.useTabs": false,
@@ -52,33 +40,18 @@
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "charliermarsh.ruff"
   },
-  // Remove trust banner
   "security.workspace.trust.banner": "never",
-
-  // remove LiveServer Message
-  "liveServer.settings.donotShowInfoMsg": true,
-
-  // SpellChecker
   "cSpell.language": "en, ru",
   "cSpell.enabled": true,
-
-  // Markdown Preview
-  "markdown-preview-enhanced.previewTheme": "github-dark.css",
-
-  // Emmet
+  "markdown-preview-enhanced.previewTheme": "none.css",
   "emmet.useInlineCompletions": true,
   "emmet.triggerExpansionOnTab": true,
-
-  // Remove recommendations
   "extensions.ignoreRecommendations": true,
-
-  // Files
-  "files.associations": {
-    "*html": "html",
-    "*css": "css",
-    "*.txt": "plaintext"
-  },
   "editor.unicodeHighlight.nonBasicASCII": false,
-  "liveServer.settings.donotVerifyTags": true,
-  "chat.commandCenter.enabled": false
+  "redhat.telemetry.enabled": false,
+  "gitlens.telemetry.enabled": false,
+  "editor.experimental.treeSitterTelemetry": false,
+  "chat.commandCenter.enabled": false,
+  "workbench.colorTheme": "Horizon Italic",
+  "workbench.iconTheme": "symbols"
 }

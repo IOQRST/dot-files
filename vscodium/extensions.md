@@ -1,272 +1,32 @@
 # Расширения
 
-<table>
-    <tr>
-        <th>Расширения</th>
-        <th>Автор</th>
-    </tr>
-    <tr>
-        <th colspan=2 align="center">
-            Base
-        </th>
-    </tr>
-    <tr>
-        <td>
-            Better Comments 
-        </td>
-        <td>
-            @aaron-bond
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Code Spell Checker 
-        </td>
-        <td>
-            @Street Side Software
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Russian - Code Spell Checker
-        </td>
-        <td>
-            @Street Side Software
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Color Highlight 
-        </td>
-        <td>
-            @naumovs
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Error Lens
-        </td>
-        <td>
-            @usernamehw
-        </td>
-    </tr>
-    <tr>
-        <td>
-            GitLens — Git supercharged
-        </td>
-        <td>
-            @GitKraken
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Markdown Preview Enhanced
-        </td>
-        <td>
-            @shd101wyy
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Path Intellisense
-        </td>
-        <td>
-            @christian-kohler
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Todo Tree
-        </td>
-        <td>
-            @Gruntfuggly
-        </td>
-    </tr>
-    <tr>
-        <td>Task</td>
-        <td>@task</td>
-    <tr>
-    <tr>
-        <th colspan=2 align="center">
-            JavaScript + Web
-        </th>
-    </tr>
-    <tr>
-        <td>
-            Auto Close Tag  
-        </td>
-        <td>
-            @formulahendry
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Auto Rename Tag 
-        </td>
-        <td>
-            @formulahendry
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Babel JavaScript
-        </td>
-        <td>
-            @mgmcdermott
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Import Cost
-        </td>
-        <td>
-            @wix
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Live Server 
-        </td>
-        <td>
-            @ritwickdey
-        </td>
-    </tr>
-    <tr>
-        <td>
-            MinifyAll
-        </td>
-        <td>
-            @Josee9988
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Prettier - Code formatter 
-        </td>
-        <td>
-            @esbenp
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Prettier ESLint
-        </td>
-        <td>
-            @rvest
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Svelte for VS Code
-        </td>
-        <td>
-            @svelte
-        </td>
-    </tr>
-    <tr>
-        <th colspan=2 align="center">
-            Python
-        </th>
-    </tr>
-    <tr>
-        <td>
-            Python
-        </td>
-        <td>
-            @ms-python
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Python Debugger
-        </td>
-        <td>
-            @ms-python
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Django
-        </td>
-        <td>
-            @batisteo
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Python Indent
-        </td>
-        <td>
-            @KevinRose
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Python Type Hint
-        </td>
-        <td>
-            @njqdev
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Ruff
-        </td>
-        <td>
-            @charliermarsh
-        </td>
-    </tr>
-    <tr>
-        <th colspan=2 align="center">
-            Dart + Flutter
-        </th>
-    </tr>
-    <tr>
-        <td>
-            Dart
-        </td>
-        <td>
-            @Dart-Code
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Flutter
-        </td>
-        <td>
-            @Dart-Code
-        </td>
-    </tr>
-    <tr>
-        <th colspan=2 align="senter">GoLang</th>
-    </tr>
-    <tr>
-        <td>
-            Go
-        </td>
-        <td>
-            @golang
-        </td>
-    </tr>
-    <tr>
-        <th colspan=2 align="center">
-            Themes
-        </th>
-    </tr>
-    <tr>
-        <td>
-            Nord
-        </td>
-        <td>
-            @arcticicestudio
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Symbols Icon Theme
-        </td>
-        <td>
-            @wilfriedago
-        </td>
-    </tr>
-</table>
+| Расширение                   | Автор                |
+| ---------------------------- | -------------------- |
+| Better Comments              | aaron-bond           |
+| Code Spell Checker           | Street Side Software |
+| Color Highlight              | naumovs              |
+| Django                       | batisteo             |
+| Docker                       | ms-azuretools        |
+| Error Lens                   | usernamehw           |
+| Even Better TOML             | tamasfe              |
+| GitLens — Git supercharged   | GitKraken            |
+| Go                           | golang               |
+| Horizon Theme                | jolaleye             |
+| Log File Highlighter         | emilast              |
+| Markdown Preview Enhanced    | shd101wyy            |
+| MinifyAll                    | Josee9988            |
+| Path Intellisense            | christian-kohler     |
+| Prettier - Code formatter    | esbenp               |
+| Python                       | ms-python            |
+| Python Debugger              | ms-python            |
+| Python Indent                | KevinRose            |
+| Python Type Hint             | njqdev               |
+| Ruff                         | charliermarsh        |
+| Russian - Code Spell Checker | Street Side Software |
+| Rust                         | rust-lang            |
+| rust-analyzer                | rust-lang            |
+| Symbols Icon Theme           | wilfriedago          |
+| Task                         | Task                 |
+| Todo Tree                    | Gruntfuggly          |
+| XML                          | Red Hat              |
+| YAML                         | Red Hat              |
