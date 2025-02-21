@@ -9,6 +9,7 @@
 | Docker                       | ms-azuretools        |
 | Error Lens                   | usernamehw           |
 | Even Better TOML             | tamasfe              |
+| GitLens — Git supercharged   | GitKraken            |
 | Go                           | golang               |
 | Horizon Theme                | jolaleye             |
 | Log File Highlighter         | emilast              |
