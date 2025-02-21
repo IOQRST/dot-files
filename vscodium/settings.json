@@ -20,7 +20,6 @@
     ]
   },
   "workbench.startupEditor": "none",
-  "workbench.sideBar.location": "left",
   "workbench.editorAssociations": {
     "*.vsix": "default",
     "{git,gitlens,git-graph}:/**/*.{md,csv,svg}": "default"
@@ -49,9 +48,10 @@
   "extensions.ignoreRecommendations": true,
   "editor.unicodeHighlight.nonBasicASCII": false,
   "redhat.telemetry.enabled": false,
-  "gitlens.telemetry.enabled": false,
   "editor.experimental.treeSitterTelemetry": false,
   "chat.commandCenter.enabled": false,
   "workbench.colorTheme": "Horizon Italic",
-  "workbench.iconTheme": "symbols"
+  "workbench.iconTheme": "symbols",
+  "workbench.activityBar.location": "top",
+  "window.menuBarVisibility": "compact"
 }
