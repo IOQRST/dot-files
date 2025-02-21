@@ -5,9 +5,12 @@ read -p "Enter username: " username
 read -p "Swapfile val in G: " sw
 
 # Создать файл подкачки/ create swap file
-dd if=/dev/zero of=/swapfile bs=1G count=$sw status=progress
-chmod 600 /swapfile
-mkswap /swapfile
+truncate -s 0 swapfile
+chattr +C swapfile
+fallocate -l $sw\G swapfile
+chmod 0600 swapfile
+mkswap swapfile
+swapon swapfile
 
 echo "# /swapfile" >> /etc/fstab
 echo "/swapfile    none    swap    defaults    0 0" >> /etc/fstab
