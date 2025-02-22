@@ -13,7 +13,7 @@
 | Go                           | golang               |
 | Horizon Theme                | jolaleye             |
 | Log File Highlighter         | emilast              |
-| Markdown Preview Enhanced    | shd101wyy            |
+| Markdown All in One          | yzhang               |
 | MinifyAll                    | Josee9988            |
 | Path Intellisense            | christian-kohler     |
 | Prettier - Code formatter    | esbenp               |
