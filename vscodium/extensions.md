@@ -23,7 +23,6 @@
 | Python Type Hint             | njqdev               |
 | Ruff                         | charliermarsh        |
 | Russian - Code Spell Checker | Street Side Software |
-| Rust                         | rust-lang            |
 | rust-analyzer                | rust-lang            |
 | Symbols Icon Theme           | wilfriedago          |
 | Task                         | Task                 |
