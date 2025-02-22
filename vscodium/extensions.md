@@ -25,7 +25,5 @@
 | Russian - Code Spell Checker | Street Side Software |
 | rust-analyzer                | rust-lang            |
 | Symbols Icon Theme           | wilfriedago          |
-| Task                         | Task                 |
-| Todo Tree                    | Gruntfuggly          |
 | XML                          | Red Hat              |
 | YAML                         | Red Hat              |
