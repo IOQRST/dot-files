@@ -22,4 +22,6 @@ lockPref('network.predictor.enable-prefetch', false);
 lockPref('network.prefetch-next', false);
 lockPref('devtools.netmonitor.responseBodyLimit', 0);
 lockPref('toolkit.legacyUserProfileCustomizations.stylesheets', true);
-lockPref('network.http.http2.enabled', false);
+lockPref('accessibility.force_disabled', 1);
+lockPref('browser.cache.disk.enable', false);
+lockPref('browser.cache.disk.enable', 6000);
