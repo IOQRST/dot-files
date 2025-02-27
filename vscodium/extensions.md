@@ -2,7 +2,6 @@
 
 | Расширение                   | Автор                |
 | ---------------------------- | -------------------- |
-| Better Comments              | aaron-bond           |
 | Code Spell Checker           | Street Side Software |
 | Color Highlight              | naumovs              |
 | Django                       | batisteo             |

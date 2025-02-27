@@ -42,16 +42,20 @@
   "security.workspace.trust.banner": "never",
   "cSpell.language": "en, ru",
   "cSpell.enabled": true,
-  "markdown-preview-enhanced.previewTheme": "none.css",
   "emmet.useInlineCompletions": true,
   "emmet.triggerExpansionOnTab": true,
   "extensions.ignoreRecommendations": true,
   "editor.unicodeHighlight.nonBasicASCII": false,
   "redhat.telemetry.enabled": false,
   "editor.experimental.treeSitterTelemetry": false,
+  "gitlens.telemetry.enabled": false,
   "chat.commandCenter.enabled": false,
   "workbench.colorTheme": "Horizon Italic",
   "workbench.iconTheme": "symbols",
   "workbench.activityBar.location": "top",
-  "window.menuBarVisibility": "compact"
+  "window.menuBarVisibility": "compact",
+  "breadcrumbs.enabled": false,
+  "search.searchOnType": false,
+  "terminal.integrated.gpuAcceleration": "on",
+  "editor.codeLens": false
 }
