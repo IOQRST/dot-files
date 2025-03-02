@@ -19,6 +19,7 @@
 1. Web Archives
 1. Youtube Tabs
 1. Proxy - [CopyLink](https://p.thenewone.lol:8443/proxy.pac)
+1. DNS Over HTTPS - [CopyLink](https://1.1.1.1/dns-query)
 
 # Базовые настройки приватности для firefox
 

@@ -24,4 +24,4 @@ lockPref('devtools.netmonitor.responseBodyLimit', 0);
 lockPref('toolkit.legacyUserProfileCustomizations.stylesheets', true);
 lockPref('accessibility.force_disabled', 1);
 lockPref('browser.cache.disk.enable', false);
-lockPref('browser.cache.disk.enable', 6000);
+lockPref('browser.tabs.min_inactive_duration_before_unload', 6000);
