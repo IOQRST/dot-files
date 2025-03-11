@@ -2,7 +2,7 @@
 
 | Расширение                   | Автор                |
 | ---------------------------- | -------------------- |
-| Ansible                      | Red Hat              |
+| Andromeda Fork               | FelixIcaza           |
 | Code Spell Checker           | Street Side Software |
 | Color Highlight              | naumovs              |
 | Django                       | batisteo             |
@@ -11,8 +11,6 @@
 | Even Better TOML             | tamasfe              |
 | GitLens — Git supercharged   | GitKraken            |
 | Go                           | golang               |
-| HasiCorp Terraform           | hashicorp            |
-| Horizon Theme                | jolaleye             |
 | Log File Highlighter         | emilast              |
 | Markdown All in One          | yzhang               |
 | MinifyAll                    | Josee9988            |

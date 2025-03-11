@@ -2,6 +2,7 @@
   "terminal.integrated.fontFamily": "Hack",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "editor.fontFamily": "'Hack', 'Symbols Nerd Font Mono', 'Symbols Nerd Font Mono Regular'",
+  "files.autoSave": "afterDelay",
   "editor.fontSize": 16,
   "editor.rulers": [80],
   "editor.cursorBlinking": "expand",
@@ -50,12 +51,12 @@
   "editor.experimental.treeSitterTelemetry": false,
   "gitlens.telemetry.enabled": false,
   "chat.commandCenter.enabled": false,
-  "workbench.colorTheme": "Horizon Italic",
   "workbench.iconTheme": "symbols",
   "workbench.activityBar.location": "top",
   "window.menuBarVisibility": "compact",
   "breadcrumbs.enabled": false,
   "search.searchOnType": false,
   "terminal.integrated.gpuAcceleration": "on",
-  "editor.codeLens": false
+  "editor.codeLens": false,
+  "workbench.colorTheme": "Andromeda Italic"
 }
