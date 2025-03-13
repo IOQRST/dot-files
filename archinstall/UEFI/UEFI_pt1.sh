@@ -19,15 +19,18 @@ btrfs subvolume create ./@
 btrfs subvolume create ./@home
 cd
 umount /mnt -R
+mkdir -p /mnt/{home,var,var/log,.snapshot}
 mount -o rw,noatime,compress=zstd:3,ssd,ssd_spread,discard=async,space_cache=v2,subvol=/@ /dev/sda2 /mnt
-mkdir /mnt/home
 mount -o rw,noatime,compress=zstd:3,ssd,ssd_spread,discard=async,space_cache=v2,subvol=/@home /dev/sda2 /mnt/home
+mount -o rw,noatime,compress=zstd:3,ssd,ssd_spread,discard=async,space_cache=v2,subvol=/@var /dev/sda2 /mnt/var
+mount -o rw,noatime,compress=zstd:3,ssd,ssd_spread,discard=async,space_cache=v2,subvol=/@log /dev/sda2 /mnt/var/log
+mount -o rw,noatime,compress=zstd:3,ssd,ssd_spread,discard=async,space_cache=v2,subvol=/@snapshot /dev/sda2 /mnt/.snapshot
 
 mkdir /mnt/boot
 mkdir /mnt/boot/efi
 mount /dev/sda1 /mnt/boot/efi
 
-pacstrap -i /mnt btrfs-progs base base-devel linux-zen linux-zen-headers linux-firmware nano realtime-privileges amd-ucode mesa xf86-video-amdgpu vulkan-radeon libva-mesa-driver mesa-vdpau git sudo --noconfirm
+pacstrap -i /mnt btrfs-progs base base-devel linux-zen linux-zen-headers linux-firmware nano realtime-privileges amd-ucode git sudo --noconfirm
 
 genfstab -U -p /mnt >> /mnt/etc/fstab
 
