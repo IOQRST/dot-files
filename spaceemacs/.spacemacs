@@ -38,47 +38,51 @@ This function should only modify configuration layer settings."
      ;; Uncomment some layer names and press `SPC f e R' (Vim style) or
      ;; `M-m f e R' (Emacs style) to install them.
      ;; ----------------------------------------------------------------
-     html
-     json
-     yaml
-     toml
-     latex
-     python
-     rust
-     c-c++
-     cmake
-     django
-     go
-     sql
-     shell
-     javascript
-     node
-     graphql
-     restclient
      ansible
      terraform
      docker
      kubernetes
      nginx
+     html
+     json
+     yaml
+     toml
+     latex
+     (python :variable
+             python-format-on-save t)
+     rust
+     c-c++
+     cmake
+     django
+     go
+     crystal
+     ruby
+     ruby-on-rails
+     sql
+     javascript
+     typescript
+     svelte
+     node
+     graphql
+     restclient
      prettier
      colors
      auto-completion
      better-defaults
      emacs-lisp
-     ;; git
+     ;;git
      helm
-     ;; lsp
+     ;;lsp
      markdown
      multiple-cursors
      org
-     ;; (shell :variables
-     ;;        shell-default-height 30
-     ;;        shell-default-position 'bottom)
+     (shell :variables
+            shell-default-height 30
+            shell-default-position 'bottom)
      spell-checking
      syntax-checking
      ;; version-control
-     ;;treemacs
-     neotree)
+     treemacs)
 
    ;; List of additional packages that will be installed without being wrapped
    ;; in a layer (generally the packages are installed only and should still be
@@ -628,6 +632,7 @@ before packages are loaded."
   ;; before ispell-hunspell-add-multi-dic will work
   (ispell-set-spellchecker-params)
   (ispell-hunspell-add-multi-dic "ru_RU,en_US"))
+
 (defun dotspacemacs/emacs-custom-settings ()
   "Emacs custom settings.
 This is an auto-generated function, do not modify its content directly, use
@@ -639,63 +644,61 @@ This function is called at the very end of Spacemacs initialization."
    ;; Your init file should contain only one such instance.
    ;; If there is more than one, they won't work right.
    '(package-selected-packages
-     '(ace-jump-helm-line ace-link aggressive-indent all-the-icons ansible
-                          ansible-doc auto-compile auto-highlight-symbol
-                          auto-yasnippet centered-cursor-mode clean-aindent-mode
-                          cmake-mode code-cells color-identifiers-mode
-                          column-enforce-mode company-anaconda company-ansible
-                          company-auctex company-c-headers company-go company-math
-                          company-reftex company-restclient company-terraform
-                          company-web cpp-auto-include cython-mode define-word
-                          devdocs diminish dired-quick-sort disable-mouse disaster
-                          docker dockerfile-mode dotenv-mode drag-stuff dumb-jump
-                          eat edit-indirect elisp-def elisp-demos elisp-slime-nav
-                          emmet-mode emr esh-help eshell-prompt-extras eshell-z
-                          eval-sexp-fu evil-anzu evil-args evil-cleverparens
-                          evil-collection evil-easymotion evil-escape
-                          evil-evilified-state evil-exchange evil-goggles
-                          evil-iedit-state evil-indent-plus evil-lion
-                          evil-lisp-state evil-matchit evil-mc evil-nerd-commenter
-                          evil-numbers evil-org evil-surround evil-tex
-                          evil-textobj-line evil-tutor evil-unimpaired
-                          evil-visual-mark-mode evil-visualstar expand-region
-                          eyebrowse fancy-battery flx-ido flycheck-elsa
-                          flycheck-package flycheck-pos-tip flyspell-correct-helm
-                          gendoxy gh-md gnuplot go-eldoc go-fill-struct
-                          go-gen-test go-guru go-impl go-rename go-tag godoctor
-                          golden-ratio google-c-style google-translate
-                          graphql-mode helm-ag helm-c-yasnippet helm-comint
-                          helm-company helm-css-scss helm-ctest helm-descbinds
-                          helm-make helm-mode-manager helm-org helm-org-rifle
-                          helm-projectile helm-purpose helm-pydoc helm-swoop
-                          helm-themes helm-xref hide-comnt highlight-indentation
-                          highlight-numbers highlight-parentheses hl-todo
-                          holy-mode hungry-delete hybrid-mode impatient-mode
-                          indent-guide info+ inspector jinja2-mode js-doc
-                          js2-refactor json-mode json-navigator json-reformat
-                          kubernetes-evil link-hint live-py-mode livid-mode
-                          lorem-ipsum macrostep markdown-toc multi-line multi-term
-                          mwim nameless neotree nerd-icons nginx-mode nodejs-repl
-                          npm-mode ob-http ob-restclient open-junk-file
-                          org-cliplink org-contrib org-download org-mime
-                          org-pomodoro org-present org-projectile org-rich-yank
-                          org-superstar overseer ox-pandoc pandoc pandoc-mode
-                          paradox password-generator pcre2el pip-requirements
-                          pipenv pippel poetry pony-mode popwin prettier-js
-                          pug-mode py-isort pydoc pyenv-mode pylookup pytest
-                          quickrun rainbow-delimiters rainbow-identifiers
-                          rainbow-mode restart-emacs restclient-helm ron-mode
-                          rustic sass-mode scss-mode shell-pop slim-mode space-doc
-                          spacegray-theme spaceline spacemacs-purpose-popwin
-                          spacemacs-whitespace-cleanup sphinx-doc sql-indent
-                          string-edit-at-point string-inflection symbol-overlay
-                          symon tagedit term-cursor terminal-here tern toc-org
-                          toml-mode treemacs-evil treemacs-icons-dired
-                          treemacs-persp treemacs-projectile undo-fu
-                          undo-fu-session unfill uuidgen vi-tilde-fringe
-                          vim-powerline volatile-highlights vundo web-beautify
-                          web-mode wgrep winum writeroom-mode ws-butler yaml-mode
-                          yapfify yasnippet-snippets)))
+     '(a ace-jump-helm-line ace-link aggressive-indent aio alert all-the-icons ameba
+         anaconda-mode ansible ansible-doc auctex auto-compile
+         auto-highlight-symbol auto-yasnippet bui bundler centered-cursor-mode
+         cfrs clean-aindent-mode closql cmake-mode code-cells code-review
+         coffee-mode color-identifiers-mode column-enforce-mode company
+         company-anaconda company-ansible company-auctex company-c-headers
+         company-go company-math company-reftex company-restclient
+         company-terraform company-web cpp-auto-include crystal-mode cython-mode
+         dap-mode deferred define-word devdocs diminish dired-quick-sort
+         disable-mouse disaster docker dockerfile-mode dotenv-mode drag-stuff
+         dumb-jump eat edit-indirect elisp-def elisp-demos elisp-slime-nav emacsql
+         emmet-mode emojify emr esh-help eshell-prompt-extras eshell-z
+         eval-sexp-fu evil-anzu evil-args evil-cleverparens evil-collection
+         evil-easymotion evil-escape evil-evilified-state evil-exchange
+         evil-goggles evil-iedit-state evil-indent-plus evil-lion evil-lisp-state
+         evil-matchit evil-mc evil-nerd-commenter evil-numbers evil-org
+         evil-surround evil-tex evil-textobj-line evil-tutor evil-unimpaired
+         evil-visual-mark-mode evil-visualstar expand-region eyebrowse
+         fancy-battery flycheck flycheck-crystal flycheck-elsa flycheck-package
+         flycheck-pos-tip flyspell-correct flyspell-correct-helm forge gendoxy
+         gh-md ghub gntp gnuplot go-eldoc go-fill-struct go-gen-test go-guru
+         go-impl go-mode go-rename go-tag godoctor golden-ratio google-c-style
+         google-translate graphql-mode haml-mode hcl-mode helm-ag helm-c-yasnippet
+         helm-comint helm-company helm-css-scss helm-ctest helm-descbinds
+         helm-make helm-mode-manager helm-org helm-org-rifle helm-projectile
+         helm-purpose helm-pydoc helm-swoop helm-themes helm-xref hide-comnt
+         highlight-indentation highlight-numbers highlight-parentheses hl-todo
+         holy-mode htmlize hungry-delete hybrid-mode impatient-mode indent-guide
+         inf-crystal inf-ruby info+ inheritenv inspector jinja2-mode js-doc
+         js2-mode js2-refactor json-mode json-navigator json-reformat
+         json-snatcher know-your-http-well kubernetes kubernetes-evil link-hint
+         live-py-mode livid-mode llama load-env-vars log4e lorem-ipsum lsp-docker
+         macrostep magit-popup magit-section markdown-mode markdown-toc
+         math-symbol-lists minitest multi-line multi-term multiple-cursors mwim
+         nameless nerd-icons nginx-mode nodejs-repl npm-mode ob-coffeescript
+         ob-crystal ob-http ob-restclient open-junk-file org-category-capture
+         org-cliplink org-contrib org-download org-mime org-pomodoro org-present
+         org-project-capture org-projectile org-rich-yank org-superstar overseer
+         package-lint paradox password-generator pcre2el pfuture pip-requirements
+         pipenv pippel play-crystal poetry pony-mode popwin pos-tip prettier-js
+         psc-ide psci pug-mode purescript-mode py-isort pydoc pyenv-mode pylookup
+         pytest pythonic pyvenv quickrun rainbow-delimiters rainbow-identifiers
+         rainbow-mode rake request restart-emacs restclient restclient-helm robe
+         ron-mode rspec-mode rubocop rubocopfmt ruby-hash-syntax ruby-refactor
+         ruby-test-mode ruby-tools rust-mode rustic sass-mode scss-mode shell-pop
+         simple-httpd skewer-mode slim-mode space-doc spacegray-theme spaceline
+         spacemacs-purpose-popwin spacemacs-whitespace-cleanup sphinx-doc
+         sql-indent string-edit-at-point string-inflection symbol-overlay symon
+         tablist tagedit term-cursor terminal-here tern terraform-mode tide
+         toc-org toml-mode treemacs treemacs-evil treemacs-icons-dired
+         treemacs-persp treemacs-projectile treepy typescript-mode undo-fu
+         undo-fu-session unfill uuidgen vi-tilde-fringe volatile-highlights vundo
+         web-beautify web-completion-data web-mode wgrep winum with-editor
+         writeroom-mode ws-butler xterm-color yaml yaml-mode yapfify yasnippet
+         yasnippet-snippets)))
   (custom-set-faces
    ;; custom-set-faces was added by Custom.
    ;; If you edit it by hand, you could mess it up, so be careful.
