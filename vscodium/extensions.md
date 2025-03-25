@@ -2,6 +2,7 @@
 
 | Расширение                   | Автор                |
 | ---------------------------- | -------------------- |
+| Andromeda Fork               | FelixIcaza           |
 | Code Spell Checker           | Street Side Software |
 | Color Highlight              | naumovs              |
 | Django                       | batisteo             |
@@ -13,7 +14,6 @@
 | Log File Highlighter         | emilast              |
 | Markdown All in One          | yzhang               |
 | MinifyAll                    | Josee9988            |
-| Nord                         | arcticicestudio      |
 | Path Intellisense            | christian-kohler     |
 | Prettier - Code formatter    | esbenp               |
 | Python                       | ms-python            |
