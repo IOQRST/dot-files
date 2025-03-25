@@ -1,0 +1,24 @@
+colorScheme:
+  name: Andromeda
+  foreground: '#D5CED9'
+  background: '#23262E'
+  cursor: '#FFF'
+  colors:
+    - '#23262E'
+    - '#ee5d43'
+    - '#96E072'
+    - '#FFE66D'
+    - '#7cb7ff'
+    - '#ff00aa'
+    - '#00e8c6'
+    - '#e5e9f0'
+    - '#746f77'
+    - '#ee5d43'
+    - '#96E072'
+    - '#FFE66D'
+    - '#7cb7ff'
+    - '#ff00aa'
+    - '#00e8c6'
+    - '#aeb3bb'
+  cursorAccent: undefined
+  selection: '#303541'
