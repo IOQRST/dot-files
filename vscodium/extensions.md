@@ -11,7 +11,8 @@
 | Even Better TOML             | tamasfe              |
 | GitLens — Git supercharged   | GitKraken            |
 | Go                           | golang               |
-| Log File Highlighter         | emilast              |
+| Haxe                         | nadako               |
+| Lua                          | sumneko              |
 | Markdown All in One          | yzhang               |
 | MinifyAll                    | Josee9988            |
 | Path Intellisense            | christian-kohler     |
@@ -20,9 +21,13 @@
 | Python Debugger              | ms-python            |
 | Python Indent                | KevinRose            |
 | Python Type Hint             | njqdev               |
+| Ruby LSP                     | Shopify              |
+| Ruby Sorbet                  | sorbet               |
 | Ruff                         | charliermarsh        |
 | Russian - Code Spell Checker | Street Side Software |
 | rust-analyzer                | rust-lang            |
 | Symbols Icon Theme           | wilfriedago          |
+| VSCode Ruby                  | wingrunr21           |
 | XML                          | Red Hat              |
 | YAML                         | Red Hat              |
+| Zig Language                 | Zig                  |
