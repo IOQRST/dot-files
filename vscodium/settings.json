@@ -58,5 +58,7 @@
   "search.searchOnType": false,
   "terminal.integrated.gpuAcceleration": "on",
   "editor.codeLens": false,
+  "Windows Love2d Path": "D:\\ProgramFiles\\GameEngines\\LOVE\\love.exe",
+  "code-runner.executorMap": {"lua": "lua54",},
   "workbench.colorTheme": "Andromeda Italic"
 }

@@ -6,6 +6,7 @@
 | Auto Close Tag                         | formulahendry        |
 | Auto Rename Tag                        | formulahendry        |
 | Babel JavaScript                       | mgmcdermott          |
+| Code Runner                            | formulahendry        |
 | Code Spell Checker                     | Street Side Software |
 | Color Highlight                        | naumovs              |
 | Django                                 | batisteo             |
