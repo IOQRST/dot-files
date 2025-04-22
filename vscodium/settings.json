@@ -47,7 +47,6 @@
   "emmet.triggerExpansionOnTab": true,
   "extensions.ignoreRecommendations": true,
   "editor.unicodeHighlight.nonBasicASCII": false,
-  "redhat.telemetry.enabled": false,
   "editor.experimental.treeSitterTelemetry": false,
   "gitlens.telemetry.enabled": false,
   "chat.commandCenter.enabled": false,
@@ -58,7 +57,5 @@
   "search.searchOnType": false,
   "terminal.integrated.gpuAcceleration": "on",
   "editor.codeLens": false,
-  "Windows Love2d Path": "D:\\ProgramFiles\\GameEngines\\LOVE\\love.exe",
-  "code-runner.executorMap": {"lua": "lua54",},
   "workbench.colorTheme": "Andromeda Italic"
 }
