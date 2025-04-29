@@ -51,7 +51,6 @@
   "gitlens.telemetry.enabled": false,
   "chat.commandCenter.enabled": false,
   "workbench.iconTheme": "symbols",
-  "workbench.activityBar.location": "top",
   "window.menuBarVisibility": "compact",
   "breadcrumbs.enabled": false,
   "search.searchOnType": false,

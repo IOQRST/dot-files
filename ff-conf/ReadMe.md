@@ -1,25 +1,24 @@
 # Firefox расширения
 
-1. AudioContext Scrambler
 1. Canvas Defender
-1. ClearURLs
-1. Cookie-Editor
-1. Decentraleyes
-1. Disconnect
-1. Firefox Multi-Account Containers
-1. HeaderTools
-1. ImTranslator: Переводчик, Словарь, Голос
-1. Privacy Badger
-1. Privacy Possum
-1. Return YouTube Dislike
-1. SponsorBlock для YouTube
-1. Tampermonkey + [Translator](https://github.com/ilyhalight/voice-over-translation)
-1. uBlock Origin
-1. Unhook - Remove YouTube Recommended & Shorts
-1. Web Archives
-1. Youtube Tabs
-1. Proxy - [CopyLink](https://p.thenewone.lol:8443/proxy.pac)
-1. DNS Over HTTPS - [CopyLink](https://1.1.1.1/dns-query)
+2. ClearURLs
+3. Cookie-Editor
+4. Decentraleyes
+5. Disconnect
+6. Firefox Multi-Account Containers
+7. HeaderTools
+8. ImTranslator: Переводчик, Словарь, Голос
+9. Privacy Badger
+10. Privacy Possum
+11. Return YouTube Dislike
+12. SponsorBlock для YouTube
+13. Tampermonkey + [Translator](https://github.com/ilyhalight/voice-over-translation)
+14. uBlock Origin
+15. Unhook - Remove YouTube Recommended & Shorts
+16. Web Archives
+17. Youtube Tabs
+18. Proxy - [CopyLink](https://p.thenewone.lol:8443/proxy.pac)
+19. DNS Over HTTPS - [CopyLink](https://1.1.1.1/dns-query)
 
 # Базовые настройки приватности для firefox
 
