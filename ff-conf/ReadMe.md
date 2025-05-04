@@ -15,10 +15,9 @@
 13. Tampermonkey + [Translator](https://github.com/ilyhalight/voice-over-translation)
 14. uBlock Origin
 15. Unhook - Remove YouTube Recommended & Shorts
-16. Web Archives
-17. Youtube Tabs
-18. Proxy - [CopyLink](https://p.thenewone.lol:8443/proxy.pac)
-19. DNS Over HTTPS - [CopyLink](https://1.1.1.1/dns-query)
+16. Youtube Tabs
+17. Proxy - [CopyLink](https://p.thenewone.lol:8443/proxy.pac)
+18. DNS Over HTTPS - [CopyLink](https://1.1.1.1/dns-query)
 
 # Базовые настройки приватности для firefox
 
