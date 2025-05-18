@@ -2,17 +2,24 @@
 
 | Расширение                   | Автор                |
 | ---------------------------- | -------------------- |
-| Andromeda Fork               | FelixIcaza           |
 | Auto Close Tag               | formulahendry        |
 | Auto Rename Tag              | formulahendry        |
 | Babel JavaScript             | mgmcdermott          |
+| Bash IDE                     | mads-hartmann        |
+| Catppuccin for VSCode        | Catppuccin           |
+| Catppuccin Icons for VSCode  | Catppuccin           |
 | Code Runner                  | formulahendry        |
 | Code Spell Checker           | Street Side Software |
 | Color Highlight              | naumovs              |
+| Dart                         | Dart-Code            |
 | Django                       | batisteo             |
 | Docker                       | ms-azuretools        |
 | Error Lens                   | usernamehw           |
+| Flutter                      | Dart-Code            |
 | GitLens — Git supercharged   | GitKraken            |
+| Go                           | golang               |
+| Haxe                         | nadako               |
+| Lua                          | sumneko              |
 | Markdown All in One          | yzhang               |
 | MinifyAll                    | Josee9988            |
 | Path Intellisense            | christian-kohler     |
@@ -24,5 +31,6 @@
 | Python Type Hint             | njqdev               |
 | Ruff                         | charliermarsh        |
 | Russian - Code Spell Checker | Street Side Software |
+| rust-analyzer                | rust-lang            |
 | stylus                       | sysoev               |
-| Symbols Icon Theme           | wilfriedago          |
+| Zig Language                 | Zig                  |
