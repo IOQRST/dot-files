@@ -1,0 +1,25 @@
+colorScheme:
+  name: Horizon
+  foreground: '#D5D8DA'
+  background: '#1A1C23'
+  cursor: '#E95378'
+  colors:
+    - '#232530'
+    - '#E95678'
+    - '#29D398'
+    - '#FAB795'
+    - '#26BBD9'
+    - '#EE64AC'
+    - '#59E1E3'
+    - '#D5D8DA'
+    - '#232530'
+    - '#EC6A88'
+    - '#3FDAA4'
+    - '#FBC3A7'
+    - '#3FC4DE'
+    - '#F075B5'
+    - '#6BE4E6'
+    - '#D5D8DA'
+  cursorAccent: '#undefined'
+  selection: undefined
+  selectionForeground: '#2E303EB3'
