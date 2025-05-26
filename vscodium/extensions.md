@@ -6,8 +6,6 @@
 | Auto Rename Tag                        | formulahendry        |
 | Babel JavaScript                       | mgmcdermott          |
 | Bash IDE                               | mads-hartmann        |
-| Catppuccin for VSCode                  | Catppuccin           |
-| Catppuccin Icons for VSCode            | Catppuccin           |
 | Code Runner                            | formulahendry        |
 | Code Spell Checker                     | Street Side Software |
 | Color Highlight                        | naumovs              |
@@ -19,6 +17,7 @@
 | GitLens — Git supercharged             | GitKraken            |
 | Go                                     | golang               |
 | Haxe                                   | nadako               |
+| Horizon Theme                          | jolaleye             |
 | Love2d Made Easy by Rainbow Coding Lab | Mark Wiemer          |
 | Lua                                    | sumneko              |
 | Markdown All in One                    | yzhang               |
@@ -34,4 +33,5 @@
 | Russian - Code Spell Checker           | Street Side Software |
 | rust-analyzer                          | rust-lang            |
 | stylus                                 | sysoev               |
+| Symbols Icon Theme                     | wilfriedago          |
 | Zig Language                           | Zig                  |

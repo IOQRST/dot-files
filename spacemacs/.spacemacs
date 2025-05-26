@@ -52,15 +52,15 @@ This function should only modify configuration layer settings."
                       auto-completion-enable-sort-by-usage nil)
      better-defaults
      emacs-lisp
-     tabs
      gpu
      ;; git
      helm
      lsp
      (markdown :variables
-               markdown-live-preview-engine 'vmd)
+               markdown-live-preview-engine 'vmd-mode)
      multiple-cursors
-     org
+     (org :variable
+          org-enable-hugo-support t)
      (shell :variables
             shell-default-term-shell "C:/Program Files/Git/bin/bash.exe"
             shell-default-height 30
@@ -147,7 +147,7 @@ This function should only modify configuration layer settings."
    ;; `dotspacemacs/user-config'. To use a local version of a package, use the
    ;; `:location' property: '(your-package :location "~/path/to/your-package/")
    ;; Also include the dependencies as they will not be resolved automatically.
-   dotspacemacs-additional-packages '(catppuccin-theme ruff-format lsp-pyright python-isort python-pytest luarocks all-the-icons lsp-docker eslint-rc flymake-jshint standard-dirs import-js)
+   dotspacemacs-additional-packages '(horizon-theme ruff-format lsp-pyright python-isort python-pytest luarocks all-the-icons lsp-docker eslint-rc flymake-jshint standard-dirs import-js ox-hugo vmd-mode)
 
    ;; A list of packages that cannot be updated.
    dotspacemacs-frozen-packages '()
@@ -292,7 +292,7 @@ It should only modify the values of Spacemacs settings."
    ;; package can be defined with `:package', or a theme can be defined with
    ;; `:location' to download the theme package, refer the themes section in
    ;; DOCUMENTATION.org for the full theme specifications.
-   dotspacemacs-themes '(catppuccin)
+   dotspacemacs-themes '(horizon)
 
    ;; Set the theme for the Spaceline. Supported themes are `spacemacs',
    ;; `all-the-icons', `custom', `doom', `vim-powerline' and `vanilla'. The
@@ -312,7 +312,7 @@ It should only modify the values of Spacemacs settings."
    ;; fixed-pitch faces. The `:size' can be specified as
    ;; a non-negative integer (pixel size), or a floating-point (point size).
    ;; Point size is recommended, because it's device independent. (default 10.0)
-   dotspacemacs-default-font '("Anka/Coder"
+   dotspacemacs-default-font '("Hasklig"
                                :size 14.0
                                :weight normal
                                :width normal)

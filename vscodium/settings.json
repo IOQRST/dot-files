@@ -1,7 +1,7 @@
 {
-  "terminal.integrated.fontFamily": "Adwaita Mono",
+  "terminal.integrated.fontFamily": "Hasklig",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "editor.fontFamily": "'Anka/Coder', 'Symbols Nerd Font Mono', 'Symbols Nerd Font Mono Regular'",
+  "editor.fontFamily": "'Haskling', 'Symbols Nerd Font Mono', 'Symbols Nerd Font Mono Regular'",
   "files.autoSave": "afterDelay",
   "editor.fontSize": 16,
   "editor.rulers": [80],
@@ -54,6 +54,6 @@
   "search.searchOnType": false,
   "terminal.integrated.gpuAcceleration": "on",
   "editor.codeLens": false,
-  "workbench.colorTheme": "Catppuccin Mocha",
-  "workbench.iconTheme": "catppuccin-mocha"
+  "workbench.colorTheme": "Horizon Italic",
+  "workbench.iconTheme": "symbols"
 }
