@@ -35,4 +35,3 @@
 | stylus                                      | sysoev               |
 | Symbols Icon Theme                          | wilfriedago          |
 | Test Explorer UI                            | hbenl                |
-| Zig Language                                | Zig                  |

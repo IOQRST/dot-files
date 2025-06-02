@@ -24,14 +24,13 @@
   "pythonIndent.trimLinesWithOnlyWhitespace": true,
   "pythonIndent.keepHangingBracketOnLine": false,
   "files.exclude": {
-      "**/__pycache__": true, // Скрыть pycache в проводнике (не связано с Python Indent, но полезно)
-      "**/*.pyc": true // Скрыть .pyc файлы
-    },
-   "search.exclude": {
-      "**/__pycache__": true // Исключить pycache из поиска
-    },
+    "**/__pycache__": true, // Скрыть pycache в проводнике (не связано с Python Indent, но полезно)
+    "**/*.pyc": true // Скрыть .pyc файлы
+  },
+  "search.exclude": {
+    "**/__pycache__": true // Исключить pycache из поиска
+  },
   //============================================================================
-
   "terminal.integrated.fontFamily": "Hasklig",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "editor.fontFamily": "'Haskling', 'Symbols Nerd Font Mono', 'Symbols Nerd Font Mono Regular'",
