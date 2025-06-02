@@ -16,7 +16,6 @@
 | Flutter                                     | Dart-Code            |
 | GitLens — Git supercharged                  | GitKraken            |
 | Go                                          | golang               |
-| Haxe                                        | nadako               |
 | Horizon Theme                               | jolaleye             |
 | Love2d Made Easy by Rainbow Coding Lab      | Mark Wiemer          |
 | Lua                                         | sumneko              |
