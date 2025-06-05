@@ -9,6 +9,7 @@
 | Code Runner                                 | formulahendry        |
 | Code Spell Checker                          | Street Side Software |
 | Color Highlight                             | naumovs              |
+| Container Tools                             | ms-azuretools        |
 | Dart                                        | Dart-Code            |
 | Django                                      | batisteo             |
 | Docker                                      | ms-azuretools        |
@@ -29,7 +30,13 @@
 | Python Indent                               | KevinRose            |
 | Python Snippets 3                           | EricSia              |
 | Python Test Explorer for Visual Studio Code | littlefoxteam        |
+| Ruby                                        | Shopify              |
+| Ruby LSP                                    | Shopify              |
+| Ruby Runner                                 | MateuszDrewniak      |
+| Ruby Sorbet                                 | sorbet               |
+| Ruby Test Runner                            | MateuszDrewniak      |
 | Ruff                                        | charliermarsh        |
+| Rufo - Ruby formatter                       | jnbt                 |
 | Russian - Code Spell Checker                | Street Side Software |
 | rust-analyzer                               | rust-lang            |
 | stylus                                      | sysoev               |

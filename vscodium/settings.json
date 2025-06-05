@@ -31,6 +31,9 @@
     "**/__pycache__": true // Исключить pycache из поиска
   },
   //============================================================================
+  //=================================LOVE2D=====================================
+  "Windows Love2d Path": "D:\\ProgramFiles\\GemaEngines\\Love\\love.exe",
+  //============================================================================
   "terminal.integrated.fontFamily": "Hasklig",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "editor.fontFamily": "'Haskling', 'Symbols Nerd Font Mono', 'Symbols Nerd Font Mono Regular'",
