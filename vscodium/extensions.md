@@ -22,6 +22,7 @@
 | Lua                                         | sumneko              |
 | Markdown All in One                         | yzhang               |
 | MinifyAll                                   | Josee9988            |
+| Org Mode                                    | vscode-org-mode      |
 | Path Intellisense                           | christian-kohler     |
 | Prettier - Code formatter                   | esbenp               |
 | Prettier ESLint                             | rvest                |
@@ -41,4 +42,7 @@
 | rust-analyzer                               | rust-lang            |
 | stylus                                      | sysoev               |
 | Symbols Icon Theme                          | wilfriedago          |
+| Test Adapter Converter                      | ms-vscode            |
 | Test Explorer UI                            | hbenl                |
+| XML                                         | Red Hat              |
+| YAML                                        | Red Hat              |
