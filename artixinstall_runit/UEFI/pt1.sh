@@ -30,7 +30,7 @@ mkdir /mnt/boot
 mkdir /mnt/boot/efi
 mount /dev/sda1 /mnt/boot/efi
 
-basestrap /mnt base base-devel runit elogind-runit btrfs-progs linux-zen linux-zen-headers linux-firmware nano neovim amd-ucode git sudo --noconfirm
+basestrap /mnt base base-devel runit elogind-runit btrfs-progs linux linux-headers linux-firmware nano neovim amd-ucode git sudo --noconfirm
 
 fstabgen -U /mnt >> /mnt/etc/fstab
 

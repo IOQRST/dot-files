@@ -30,7 +30,7 @@ mkdir /mnt/boot
 mkdir /mnt/boot/efi
 mount /dev/sda1 /mnt/boot/efi
 
-pacstrap -i /mnt btrfs-progs base base-devel linux-zen linux-zen-headers linux-firmware nano realtime-privileges amd-ucode git sudo --noconfirm
+pacstrap -i /mnt btrfs-progs base base-devel linux linux-headers linux-firmware nano realtime-privileges amd-ucode git sudo --noconfirm
 
 genfstab -U -p /mnt >> /mnt/etc/fstab
 
