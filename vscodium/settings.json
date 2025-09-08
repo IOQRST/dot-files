@@ -34,11 +34,11 @@
     "**/__pycache__": true
   },
   // ===========================================================================
-  
+
   //================================ LOVE2D ====================================
-  "Windows Love2d Path": "D:\\ProgramFiles\\GemaEngines\\Love\\love.exe",
+  "Windows Love2d Path": "D:\\ProgramFiles\\GameEngines\\LOVE\\love.exe",
   //============================================================================
-  
+
   // ================================== Prettier================================
   "editor.maxTokenizationLineLength": 2500,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -47,7 +47,7 @@
   "prettier.useTabs": false,
   "prettier.singleQuote": true,
   // ===========================================================================
-  
+
   "terminal.integrated.fontFamily": "Hasklig",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "editor.fontFamily": "'Haskling', 'Symbols Nerd Font Mono', 'Symbols Nerd Font Mono Regular'",
@@ -75,7 +75,6 @@
     "{git,gitlens,git-graph}:/**/*.{md,csv,svg}": "default"
   },
   "explorer.compactFolders": false,
-  "symbols.hidesExplorerArrows": true,
   "telemetry.telemetryLevel": "off",
   "security.workspace.trust.banner": "never",
   "cSpell.language": "en, ru",
@@ -91,7 +90,8 @@
   "search.searchOnType": false,
   "terminal.integrated.gpuAcceleration": "on",
   "editor.codeLens": false,
-  "workbench.colorTheme": "Horizon Italic",
-  "workbench.iconTheme": "symbols",
-  "git.enableSmartCommit": true
+  "git.enableSmartCommit": true,
+  "workbench.colorTheme": "Beyond",
+  "workbench.productIconTheme": "icons-carbon",
+  "workbench.iconTheme": "minimalistic-icons"
 }
