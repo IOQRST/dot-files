@@ -14,7 +14,8 @@
     "editor.formatOnType": true,
     "editor.formatOnSave": true,
     "editor.codeActionsOnSave": {
-      "source.fixAlll.ruff": "always"
+      "source.fixAlll": "always",
+      "source.organizeImports": "explicit"
     }
   },
   "python.testing.pytestEnabled": true,
@@ -84,7 +85,6 @@
   "extensions.ignoreRecommendations": true,
   "editor.unicodeHighlight.nonBasicASCII": false,
   "editor.experimental.treeSitterTelemetry": false,
-  "gitlens.telemetry.enabled": false,
   "chat.commandCenter.enabled": false,
   "breadcrumbs.enabled": false,
   "search.searchOnType": false,
@@ -93,5 +93,6 @@
   "git.enableSmartCommit": true,
   "workbench.colorTheme": "Beyond",
   "workbench.productIconTheme": "icons-carbon",
-  "workbench.iconTheme": "minimalistic-icons"
+  "workbench.iconTheme": "minimalistic-icons",
+  "terminal.integrated.stickyScroll.enabled": false
 }

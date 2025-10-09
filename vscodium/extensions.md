@@ -7,8 +7,8 @@
 | autoDocstring - Python Docstring Generator | njpwerner            |
 | Babel JavaScript                           | mgmcdermott          |
 | Bash IDE                                   | mads-hartmann        |
-|Beyond|@woidzero|
-|Carbon Product Icons|@antfu|
+| Beyond                                     | @woidzero            |
+| Carbon Product Icons                       | @antfu               |
 | Code Spell Checker                         | Street Side Software |
 | Color Highlight                            | naumovs              |
 | Container Tools                            | ms-azuretools        |
@@ -16,7 +16,6 @@
 | Django                                     | batisteo             |
 | Docker                                     | ms-azuretools        |
 | Flutter                                    | Dart-Code            |
-| GitLens — Git supercharged                 | GitKraken            |
 | Go                                         | golang               |
 | isort                                      | ms-python            |
 | Jinja                                      | wholroyd             |
@@ -40,7 +39,7 @@
 | Rufo - Ruby formatter                      | jnbt                 |
 | Russian - Code Spell Checker               | Street Side Software |
 | rust-analyzer                              | rust-lang            |
-| Simple icons                        | LaurentTreguier         |
+| Simple icons                               | LaurentTreguier      |
 | stylus                                     | sysoev               |
 | Test Adapter Converter                     | ms-vscode            |
 | Test Explorer UI                           | hbenl                |
