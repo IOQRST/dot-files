@@ -12,10 +12,8 @@
 | Code Spell Checker                         | Street Side Software |
 | Color Highlight                            | naumovs              |
 | Container Tools                            | ms-azuretools        |
-| Dart                                       | Dart-Code            |
 | Django                                     | batisteo             |
 | Docker                                     | ms-azuretools        |
-| Flutter                                    | Dart-Code            |
 | Go                                         | golang               |
 | isort                                      | ms-python            |
 | Jinja                                      | wholroyd             |
