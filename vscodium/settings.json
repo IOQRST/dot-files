@@ -39,21 +39,13 @@
   //================================ LOVE2D ====================================
   "Windows Love2d Path": "D:\\ProgramFiles\\GameEngines\\LOVE\\love.exe",
   //============================================================================
-
-  // ================================== Prettier================================
-  "editor.maxTokenizationLineLength": 2500,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "prettier.tabWidth": 2,
-  "prettier.printWidth": 250,
-  "prettier.useTabs": false,
-  "prettier.singleQuote": true,
   // ===========================================================================
 
-  "terminal.integrated.fontFamily": "Hasklig",
-  "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "editor.fontFamily": "'Haskling', 'Symbols Nerd Font Mono', 'Symbols Nerd Font Mono Regular'",
+  "terminal.integrated.fontFamily": "Hack",
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "editor.fontFamily": "'Hack', 'Symbols Nerd Font Mono', 'Symbols Nerd Font Mono Regular'",
   "files.autoSave": "afterDelay",
-  "editor.fontSize": 16,
+  "editor.fontSize": 14,
   "editor.rulers": [80],
   "editor.cursorBlinking": "expand",
   "editor.formatOnSave": true,
@@ -63,7 +55,15 @@
   "editor.tokenColorCustomizations": {
     "textMateRules": [
       {
-        "scope": ["comment", "comment.block", "comment.block.documentation", "comment.line", "comment.line.double-slash", "punctuation.definition.comment", "multilineComments"],
+        "scope": [
+          "comment",
+          "comment.block",
+          "comment.block.documentation",
+          "comment.line",
+          "comment.line.double-slash",
+          "punctuation.definition.comment",
+          "multilineComments"
+        ],
         "settings": {
           "fontStyle": "italic"
         }
@@ -86,13 +86,13 @@
   "editor.unicodeHighlight.nonBasicASCII": false,
   "editor.experimental.treeSitterTelemetry": false,
   "chat.commandCenter.enabled": false,
-  "breadcrumbs.enabled": false,
   "search.searchOnType": false,
   "terminal.integrated.gpuAcceleration": "on",
   "editor.codeLens": false,
   "git.enableSmartCommit": true,
-  "workbench.colorTheme": "Beyond",
+  "workbench.colorTheme": "Carbonfox",
   "workbench.productIconTheme": "icons-carbon",
   "workbench.iconTheme": "minimalistic-icons",
-  "terminal.integrated.stickyScroll.enabled": false
+  "terminal.integrated.stickyScroll.enabled": false,
+  "workbench.secondarySideBar.defaultVisibility": "hidden"
 }
