@@ -4,7 +4,6 @@
 | ------------------------------------------- | -------------------- |
 | autoDocstring - Python Docstring Generator  | njpwerner            |
 | Bash IDE                                    | mads-hartmann        |
-| Carbon Product Icons                        | @antfu               |
 | Code Spell Checker                          | Street Side Software |
 | Color Highlight                             | naumovs              |
 | Container Tools                             | ms-azuretools        |
@@ -19,7 +18,7 @@
 | Lua                                         | sumneko              |
 | Markdown All in One                         | yzhang               |
 | MinifyAll                                   | Josee9988            |
-| Nightfox Theme Collections                  | @nuromirg            |
+| Night Owl                                   | @sdras               |
 | Path Intellisense                           | christian-kohler     |
 | Python                                      | ms-python            |
 | Python Debugger                             | ms-python            |

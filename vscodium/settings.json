@@ -20,7 +20,11 @@
   },
   "python.testing.pytestEnabled": true,
   "python.testing.unittestEnabled": false,
-  "python.testing.pytestArgs": ["-v", "--cov", "--cov-report=html"],
+  "python.testing.pytestArgs": [
+    "-v",
+    "--cov",
+    "--cov-report=html"
+  ],
   "testExplorer.mergeSuites": true,
   "testExplorer.showOnRun": true,
   "python.terminal.activateEnvInCurrentTerminal": true,
@@ -35,18 +39,18 @@
     "**/__pycache__": true
   },
   // ===========================================================================
-
   //================================ LOVE2D ====================================
   "Windows Love2d Path": "D:\\ProgramFiles\\GameEngines\\LOVE\\love.exe",
   //============================================================================
   // ===========================================================================
-
   "terminal.integrated.fontFamily": "Hack",
-  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
   "editor.fontFamily": "'Hack', 'Symbols Nerd Font Mono', 'Symbols Nerd Font Mono Regular'",
   "files.autoSave": "afterDelay",
   "editor.fontSize": 14,
-  "editor.rulers": [80],
+  "editor.rulers": [
+    80
+  ],
   "editor.cursorBlinking": "expand",
   "editor.formatOnSave": true,
   "editor.minimap.enabled": false,
@@ -90,9 +94,8 @@
   "terminal.integrated.gpuAcceleration": "on",
   "editor.codeLens": false,
   "git.enableSmartCommit": true,
-  "workbench.colorTheme": "Carbonfox",
-  "workbench.productIconTheme": "icons-carbon",
-  "workbench.iconTheme": "minimalistic-icons",
+  "workbench.colorTheme": "Night Owl",
+  "workbench.iconTheme": "simple-icons",
   "terminal.integrated.stickyScroll.enabled": false,
   "workbench.secondarySideBar.defaultVisibility": "hidden"
 }
