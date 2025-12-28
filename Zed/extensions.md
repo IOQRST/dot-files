@@ -5,7 +5,6 @@
 | Dockerfile                         |
 | SQL                                |
 | Ruby                               |
-| Tokyo Night Theme                  |
 | SCSS                               |
 | Make                               |
 | Lua                                |
@@ -29,6 +28,7 @@
 | JSON5                              |
 | Go Snippets                        |
 | Color Highlight                    |
+| Andromeda                          |
 | Flask Snippets                     |
 | HTML Snippets                      |
 | Django                             |

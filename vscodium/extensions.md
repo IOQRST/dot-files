@@ -2,6 +2,7 @@
 
 | Расширение                                  | Автор                |
 | ------------------------------------------- | -------------------- |
+| Andromeda Fork                              | Felixcaza            |
 | autoDocstring - Python Docstring Generator  | njpwerner            |
 | Bash IDE                                    | mads-hartmann        |
 | Code Spell Checker                          | Street Side Software |
@@ -36,6 +37,5 @@
 | Simple icons                                | LaurentTreguier      |
 | Test Adapter Converter                      | ms-vscode            |
 | Test Explorer UI                            | hbenl                |
-| Tokyo Night                                 | enkia                |
 | XML                                         | Red Hat              |
 | YAML                                        | Red Hat              |
