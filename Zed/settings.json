@@ -9,8 +9,8 @@
 {
   "terminal": {
     "shell": {
-      "program": "bash"
-    }
+      "program": "bash",
+    },
   },
   "buffer_font_family": "Hack",
   "icon_theme": "Bearded Icon Theme",
@@ -18,7 +18,7 @@
   "buffer_font_size": 15,
   "theme": {
     "mode": "dark",
-    "light": "Night Owl Light",
-    "dark": "Night Owl Dark"
-  }
+    "light": "Everforest Dark Medium",
+    "dark": "Everforest Dark Medium",
+  },
 }

@@ -28,8 +28,8 @@
 | JSON5                              |
 | Go Snippets                        |
 | Color Highlight                    |
-| Andromeda                          |
 | Flask Snippets                     |
+| Everforest Theme                   |
 | HTML Snippets                      |
 | Django                             |
 | Defold                             |

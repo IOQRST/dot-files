@@ -2,7 +2,6 @@
 
 | Расширение                                  | Автор                |
 | ------------------------------------------- | -------------------- |
-| Andromeda Fork                              | Felixcaza            |
 | autoDocstring - Python Docstring Generator  | njpwerner            |
 | Bash IDE                                    | mads-hartmann        |
 | Code Spell Checker                          | Street Side Software |
@@ -11,6 +10,7 @@
 | Crystal Language                            | @crystal-lang-tools  |
 | Django                                      | batisteo             |
 | Docker                                      | ms-azuretools        |
+| Everforest                                  | sainnhe              |
 | GDScript Formatter & Linter                 | @EddieDover          |
 | Go                                          | golang               |
 | isort                                       | ms-python            |

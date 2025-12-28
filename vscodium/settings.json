@@ -94,7 +94,7 @@
   "terminal.integrated.gpuAcceleration": "on",
   "editor.codeLens": false,
   "git.enableSmartCommit": true,
-  "workbench.colorTheme": "Andromeda Italic",
+  "workbench.colorTheme": "Everforest Dark",
   "workbench.iconTheme": "simple-icons",
   "terminal.integrated.stickyScroll.enabled": false,
   "workbench.secondarySideBar.defaultVisibility": "hidden"
