@@ -5,6 +5,7 @@
 | Dockerfile                         |
 | SQL                                |
 | Ruby                               |
+| Tokyo Night Theme                  |
 | SCSS                               |
 | Make                               |
 | Lua                                |
@@ -19,7 +20,6 @@
 | Python requirements and constrains |
 | GDScript                           |
 | Ansible                            |
-| Night Owl Theme                    |
 | Bearded Icon Theme                 |
 | Python Snippets                    |
 | Helm                               |

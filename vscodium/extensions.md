@@ -18,7 +18,6 @@
 | Lua                                         | sumneko              |
 | Markdown All in One                         | yzhang               |
 | MinifyAll                                   | Josee9988            |
-| Night Owl                                   | @sdras               |
 | Path Intellisense                           | christian-kohler     |
 | Python                                      | ms-python            |
 | Python Debugger                             | ms-python            |
@@ -37,5 +36,6 @@
 | Simple icons                                | LaurentTreguier      |
 | Test Adapter Converter                      | ms-vscode            |
 | Test Explorer UI                            | hbenl                |
+| Tokyo Night                                 | enkia                |
 | XML                                         | Red Hat              |
 | YAML                                        | Red Hat              |
