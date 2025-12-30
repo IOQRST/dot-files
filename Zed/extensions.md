@@ -29,9 +29,9 @@
 | Go Snippets                        |
 | Color Highlight                    |
 | Flask Snippets                     |
-| Everforest Theme                   |
 | HTML Snippets                      |
 | Django                             |
 | Defold                             |
 | GDScript Snippets                  |
 | Django Snippets                    |
+| Panda Theme                        |

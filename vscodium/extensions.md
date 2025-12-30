@@ -4,13 +4,13 @@
 | ------------------------------------------- | -------------------- |
 | autoDocstring - Python Docstring Generator  | njpwerner            |
 | Bash IDE                                    | mads-hartmann        |
+| Beyond                                      | woidzero             |
 | Code Spell Checker                          | Street Side Software |
 | Color Highlight                             | naumovs              |
 | Container Tools                             | ms-azuretools        |
-| Crystal Language                            | @crystal-lang-tools  |
+| Crystal Language                            | crystal-lang-tools   |
 | Django                                      | batisteo             |
 | Docker                                      | ms-azuretools        |
-| Everforest                                  | sainnhe              |
 | GDScript Formatter & Linter                 | @EddieDover          |
 | Go                                          | golang               |
 | isort                                       | ms-python            |

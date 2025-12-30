@@ -18,7 +18,7 @@
   "buffer_font_size": 15,
   "theme": {
     "mode": "dark",
-    "light": "Everforest Dark Medium",
-    "dark": "Everforest Dark Medium",
+    "light": "Panda",
+    "dark": "Panda",
   },
 }
