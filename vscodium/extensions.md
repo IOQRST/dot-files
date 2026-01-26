@@ -12,7 +12,6 @@
 | Django                                      | @batisteo             |
 | Docker                                      | @ms-azuretools        |
 | Go                                          | @golang               |
-| godot-tools                                 | @geequlim             |
 | isort                                       | @ms-python            |
 | Jinja                                       | @wholroyd             |
 | Love2d Made Easy by Rainbow Coding Lab      | @Mark Wiemer          |
