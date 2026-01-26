@@ -17,7 +17,6 @@
 | ini                                |
 | basher                             |
 | Python requirements and constrains |
-| GDScript                           |
 | Ansible                            |
 | Bearded Icon Theme                 |
 | Python Snippets                    |
