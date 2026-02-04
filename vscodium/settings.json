@@ -38,11 +38,7 @@
   "search.exclude": {
     "**/__pycache__": true
   },
-  // ===========================================================================
-  //================================ LOVE2D ====================================
-  "Windows Love2d Path": "D:\\ProgramFiles\\GameEngines\\LOVE\\love.exe",
-  //============================================================================
-  // ===========================================================================
+  // ================================== Common =================================
   "terminal.integrated.fontFamily": "Hack",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "editor.fontFamily": "'Hack', 'Symbols Nerd Font Mono', 'Symbols Nerd Font Mono Regular'",
@@ -94,8 +90,9 @@
   "terminal.integrated.gpuAcceleration": "on",
   "editor.codeLens": false,
   "git.enableSmartCommit": true,
-  "workbench.colorTheme": "Beyond",
+  "workbench.colorTheme": "Vira Graphene",
   "workbench.iconTheme": "simple-icons",
+  "workbench.productIconTheme": "icons-carbon",
   "terminal.integrated.stickyScroll.enabled": false,
   "workbench.secondarySideBar.defaultVisibility": "hidden",
 }

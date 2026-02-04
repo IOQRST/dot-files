@@ -1,36 +1,42 @@
-| Extension name                     |
+| Common             |
+| ------------------ |
+| Matte Black Pro    |
+| Bearded Icon Theme |
+| Color Highlight    |
+| TOML               |
+| XML                |
+| JSON5              |
+| ini                |
+
+| Web           |
+| ------------- |
+| HTML          |
+| HTML Snippets |
+| SCSS          |
+| Vue           |
+| Emmet         |
+| GraphQL       |
+
+| Python                             |
 | ---------------------------------- |
-| HTML                               |
-| TOML                               |
-| Dockerfile                         |
-| SQL                                |
-| Ruby                               |
-| SCSS                               |
-| Make                               |
-| Lua                                |
-| Terraform                          |
-| Elixir                             |
-| XML                                |
-| Zig                                |
-| Emmet                              |
-| GraphQL                            |
-| ini                                |
-| basher                             |
+| Python LSP                         |
 | Python requirements and constrains |
-| Ansible                            |
-| Bearded Icon Theme                 |
 | Python Snippets                    |
-| Helm                               |
-| Erlang                             |
-| Go Sum Highlighting                |
-| Crystal                            |
-| JSON5                              |
-| Go Snippets                        |
-| Color Highlight                    |
 | Flask Snippets                     |
-| HTML Snippets                      |
 | Django                             |
-| Defold                             |
-| GDScript Snippets                  |
 | Django Snippets                    |
-| Panda Theme                        |
+
+| Go                  |
+| ------------------- |
+| Go Snippets         |
+| Go Sum Highlighting |
+
+| Other      |
+| ---------- |
+| basher     |
+| Dockerfile |
+| Elixir     |
+| Erlang     |
+| Lua        |
+| Make       |
+| Ruby       |
