@@ -2,7 +2,7 @@
 
 | Общие                        | Автор                 |
 | ---------------------------- | --------------------- |
-| Vira Theme                   | @vira                 |
+| Horizon Theme                | @jolaleye                |
 | Simple icons                 | @LaurentTreguier      |
 | Carbon Product Icons         | @antfu                |
 | Color Highlight              | @naumovs              |

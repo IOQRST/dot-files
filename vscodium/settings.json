@@ -20,11 +20,7 @@
   },
   "python.testing.pytestEnabled": true,
   "python.testing.unittestEnabled": false,
-  "python.testing.pytestArgs": [
-    "-v",
-    "--cov",
-    "--cov-report=html"
-  ],
+  "python.testing.pytestArgs": ["-v", "--cov", "--cov-report=html"],
   "testExplorer.mergeSuites": true,
   "testExplorer.showOnRun": true,
   "python.terminal.activateEnvInCurrentTerminal": true,
@@ -44,9 +40,7 @@
   "editor.fontFamily": "'Hack', 'Symbols Nerd Font Mono', 'Symbols Nerd Font Mono Regular'",
   "files.autoSave": "afterDelay",
   "editor.fontSize": 14,
-  "editor.rulers": [
-    80
-  ],
+  "editor.rulers": [80],
   "editor.cursorBlinking": "expand",
   "editor.formatOnSave": true,
   "editor.minimap.enabled": false,
@@ -85,14 +79,13 @@
   "extensions.ignoreRecommendations": true,
   "editor.unicodeHighlight.nonBasicASCII": false,
   "editor.experimental.treeSitterTelemetry": false,
-  "chat.commandCenter.enabled": false,
   "search.searchOnType": false,
   "terminal.integrated.gpuAcceleration": "on",
   "editor.codeLens": false,
   "git.enableSmartCommit": true,
-  "workbench.colorTheme": "Vira Graphene",
+  "workbench.colorTheme": "Horizon Italic",
   "workbench.iconTheme": "simple-icons",
   "workbench.productIconTheme": "icons-carbon",
   "terminal.integrated.stickyScroll.enabled": false,
-  "workbench.secondarySideBar.defaultVisibility": "hidden",
+  "workbench.secondarySideBar.defaultVisibility": "hidden"
 }

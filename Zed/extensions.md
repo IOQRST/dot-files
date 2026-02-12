@@ -1,6 +1,6 @@
 | Common             |
 | ------------------ |
-| Matte Black Pro    |
+| Horizon Extended   |
 | Bearded Icon Theme |
 | Color Highlight    |
 | TOML               |
