@@ -2,7 +2,7 @@
 
 | Общие                        | Автор                 |
 | ---------------------------- | --------------------- |
-| Horizon Theme                | @jolaleye                |
+| Yaruna Theme Official        | @daniel-duc                |
 | Simple icons                 | @LaurentTreguier      |
 | Carbon Product Icons         | @antfu                |
 | Color Highlight              | @naumovs              |

@@ -1,6 +1,6 @@
 | Common             |
 | ------------------ |
-| Horizon Extended   |
+| ApisArtisan        |
 | Bearded Icon Theme |
 | Color Highlight    |
 | TOML               |

@@ -83,7 +83,7 @@
   "terminal.integrated.gpuAcceleration": "on",
   "editor.codeLens": false,
   "git.enableSmartCommit": true,
-  "workbench.colorTheme": "Horizon Italic",
+  "workbench.colorTheme": "Yaruna Nova",
   "workbench.iconTheme": "simple-icons",
   "workbench.productIconTheme": "icons-carbon",
   "terminal.integrated.stickyScroll.enabled": false,
