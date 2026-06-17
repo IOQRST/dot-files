@@ -2,8 +2,8 @@
 
 | Общие                        | Автор                 |
 | ---------------------------- | --------------------- |
-| Yaruna Theme Official        | @daniel-duc                |
-| Simple icons                 | @LaurentTreguier      |
+| Yaruna Theme Official        | @daniel-duc           |
+| Mizu Icons                   | @cdfzo                |
 | Carbon Product Icons         | @antfu                |
 | Color Highlight              | @naumovs              |
 | Code Spell Checker           | @Street Side Software |

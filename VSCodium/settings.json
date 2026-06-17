@@ -20,7 +20,11 @@
   },
   "python.testing.pytestEnabled": true,
   "python.testing.unittestEnabled": false,
-  "python.testing.pytestArgs": ["-v", "--cov", "--cov-report=html"],
+  "python.testing.pytestArgs": [
+    "-v",
+    "--cov",
+    "--cov-report=html"
+  ],
   "testExplorer.mergeSuites": true,
   "testExplorer.showOnRun": true,
   "python.terminal.activateEnvInCurrentTerminal": true,
@@ -35,12 +39,14 @@
     "**/__pycache__": true
   },
   // ================================== Common =================================
-  "terminal.integrated.fontFamily": "Hack",
+  "terminal.integrated.fontFamily": "Hasklig",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "editor.fontFamily": "'Hack', 'Symbols Nerd Font Mono', 'Symbols Nerd Font Mono Regular'",
+  "editor.fontFamily": "'Hasklig', 'Symbols Nerd Font Mono', 'Symbols Nerd Font Mono Regular'",
   "files.autoSave": "afterDelay",
-  "editor.fontSize": 14,
-  "editor.rulers": [80],
+  "editor.fontSize": 16,
+  "editor.rulers": [
+    80
+  ],
   "editor.cursorBlinking": "expand",
   "editor.formatOnSave": true,
   "editor.minimap.enabled": false,
@@ -83,9 +89,12 @@
   "terminal.integrated.gpuAcceleration": "on",
   "editor.codeLens": false,
   "git.enableSmartCommit": true,
-  "workbench.colorTheme": "Yaruna Nova",
-  "workbench.iconTheme": "simple-icons",
+  "workbench.colorTheme": "Yaruna Nord",
+  "workbench.iconTheme": "mizu",
   "workbench.productIconTheme": "icons-carbon",
   "terminal.integrated.stickyScroll.enabled": false,
-  "workbench.secondarySideBar.defaultVisibility": "hidden"
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+  }
 }

@@ -1,26 +1,25 @@
 # Firefox расширения
 
-1. Canvas Defender
-2. Clear Browsing Data
-3. ClearURLs
-4. Cookie-Editor
-5. Decentraleyes
-6. Disconnect
-7. Firefox Multi-Account Containers
-8. HeaderTools
-9. ImTranslator: Переводчик, Словарь, Голос
-10. Privacy Badger
-11. Privacy Possum
-12. Return YouTube Dislike
-13. SponsorBlock для YouTube
-14. Tampermonkey + [Translator](https://github.com/ilyhalight/voice-over-translation)
-15. uBlock Origin
-16. Unhook - Remove YouTube Recommended & Shorts
-17. Youtube Tabs
-18. Proxy - [CopyLink](https://p.thenewone.lol:8443/proxy.pac)
-19. DNS Over HTTPS - Выбрать из вариантов в разделе DOH сервисы.
+1. Improve Youtube (Open-Source for YouTube)
+2. Canvas Defender
+3. Clear Browsing Data
+4. ClearURLs
+5. Cookie-Editor
+6. Decentraleyes
+7. Disconnect
+8. ImTranslator: Переводчик, Словарь, Голос
+9. Privacy Badger
+10. Privacy Possum
+11. Return YouTube Dislike
+12. SponsorBlock для YouTube
+13. Tampermonkey + [Translator](https://github.com/ilyhalight/voice-over-translation)
+14. uBlock Origin
+17. YouTube No Translation
 
-# DOH сервисы.
+## Proxy
+[CopyLink](https://p.thenewone.lol:8443/proxy.pac)
+
+## DOH сервисы.
 
 Quad9:
  - [Вариант 0](https://dns.quad9.net/dns-query)
@@ -37,7 +36,7 @@ Cloudflare:
   - [Вариант 1](https://cloudflare-dns.com/dns-query)
   - [Вариант 2](https://security.cloudflare-dns.com/dns-query)
 
-# Базовые настройки приватности для firefox
+## Базовые настройки приватности для firefox
 
 #### Сначала установи все, а потом уже применяй конфиг!
 

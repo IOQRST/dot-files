@@ -1,2 +1,2 @@
-require('core')
-require('lazyInstaller')
+require("config.lazy")
+require("config.core")

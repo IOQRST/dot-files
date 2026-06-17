@@ -1,6 +1,6 @@
 | Common             |
 | ------------------ |
-| ApisArtisan        |
+| Nord Themes        |
 | Bearded Icon Theme |
 | Color Highlight    |
 | TOML               |
@@ -12,7 +12,7 @@
 | ------------- |
 | HTML          |
 | HTML Snippets |
-| SCSS          |
+| SCSS & SASS   |
 | Vue           |
 | Emmet         |
 | GraphQL       |
