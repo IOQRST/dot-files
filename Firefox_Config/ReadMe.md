@@ -7,14 +7,15 @@
 5. Cookie-Editor
 6. Decentraleyes
 7. Disconnect
-8. ImTranslator: Переводчик, Словарь, Голос
-9. Privacy Badger
-10. Privacy Possum
-11. Return YouTube Dislike
-12. SponsorBlock для YouTube
-13. Tampermonkey + [Translator](https://github.com/ilyhalight/voice-over-translation)
+8. Privacy Badger
+9.  Privacy Possum
+10. Return YouTube Dislike
+11. SponsorBlock для YouTube
+12. Tampermonkey + [Translator](https://github.com/ilyhalight/voice-over-translation)
+13. Translate Selected Text
 14. uBlock Origin
-17. YouTube No Translation
+15. YouTube No Translation
+16. Youtube Tabs - Subscribition Organize Tool
 
 ## Proxy
 [CopyLink](https://p.thenewone.lol:8443/proxy.pac)
