@@ -9,13 +9,12 @@
 7. Disconnect
 8. Privacy Badger
 9.  Privacy Possum
-10. Return YouTube Dislike
-11. SponsorBlock для YouTube
-12. Tampermonkey + [Translator](https://github.com/ilyhalight/voice-over-translation)
-13. Translate Selected Text
-14. uBlock Origin
-15. YouTube No Translation
-16. Youtube Tabs - Subscribition Organize Tool
+10. SponsorBlock для YouTube
+11. Tampermonkey + [Translator](https://github.com/ilyhalight/voice-over-translation)
+12. Translate Selected Text
+13. uBlock Origin
+14. YouTube No Translation
+15. Youtube Tabs - Subscribition Organize Tool
 
 ## Proxy
 [CopyLink](https://p.thenewone.lol:8443/proxy.pac)
