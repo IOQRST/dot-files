@@ -96,5 +96,7 @@
   "workbench.secondarySideBar.defaultVisibility": "hidden",
   "[markdown]": {
     "editor.defaultFormatter": "yzhang.markdown-all-in-one"
-  }
+  },
+  "chat.agent.enabled": false,
+  "window.customMenuBarAltFocus": false
 }

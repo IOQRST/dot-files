@@ -1,0 +1,3 @@
+ACTION=="add", SUBSYSTEM=="hidraw", ATTRS{idVendor}=="373b", ATTRS{idProduct}=="1031", RUN+="/bin/chmod a+rw /dev/%k"
+ACTION=="add", SUBSYSTEM=="hidraw", ATTRS{idVendor}=="373b", ATTRS{idProduct}=="102e", RUN+="/bin/chmod a+rw /dev/%k"
+ACTION=="add", SUBSYSTEM=="hidraw", ATTRS{idVendor}=="fffe", ATTRS{idProduct}=="000b", RUN+="/bin/chmod a+rw /dev/%k"
