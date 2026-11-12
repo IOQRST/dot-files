@@ -14,4 +14,4 @@ pacman -S mesa lib32-mesa libva-mesa-driver lib32-libva-mesa-driver mesa-vdpau x
 pacman -S ntfs-3g mtpfs nvme-cli bluez bluez-tools bluez-utils v4l-utils --noconfirm
 pacman -S pipewire pipewire-alsa pipewire-jack pipewire-pulse gst-plugin-pipewire wireplumber --noconfirm
 pacman -S openssh freerdp networkmanager-openconnect networkmanager-openvpn networkmanager-vpnc networkmanager-l2tp networkmanager-pptp network-manager-applet network-manager-sstp --noconfirm
-pacman -S gcc cmake meson ninja python3 python-pip go nodejs npm lua rust ruby erlang elixir --noconfirm
+pacman -S gcc cmake meson ninja python3 python-pip lua rust haxe zig go nodejs npm  --noconfirm

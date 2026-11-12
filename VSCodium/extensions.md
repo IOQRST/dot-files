@@ -28,13 +28,17 @@
 | Python Type Hint                           | @njqdev        |
 | Ruff                                       | @charliermarsh |
 
+| Haxe            | Автор   |
+| --------------- | ------- |
+| Haxe            | @nadako |
+| Haxe Checkstyle | @vshaxe |
+| HXCPP Debugger  | @vshaxe |
+| Flash Debugger  | @vshaxe |
 
-| Ruby                  | Автор    |
-| --------------------- | -------- |
-| Ruby                  | @Shopify |
-| Ruby LSP              | @Shopify |
-| Ruby Sorbet           | @sorbet  |
-| Rufo - Ruby formatter | @jnbt    |
+| Zig          | Автор          |
+| ------------ | -------------- |
+| Zig Language | @Zig           |
+| Znippets     | @Laven Rochana |
 
 | Тестирование                                | Автор            |
 | ------------------------------------------- | ---------------- |
@@ -42,19 +46,15 @@
 | Test Explorer UI                            | @hbenl           |
 | Playwright Test for VSCode                  | @Playwright Team |
 | Python Test Explorer for Visual Studio Code | @littlefoxteam   |
-| Ruby Test Runner                            | @MateuszDrewniak |
-
+| Haxe Test Explorer                          | @vshaxe          |
 
 | Docker          | Автор          |
 | --------------- | -------------- |
 | Docker          | @ms-azuretools |
 | Container Tools | @ms-azuretools |
 
-| Другие технологии                     | Автор                            |
-| ------------------------------------- | -------------------------------- |
-| Bash IDE                              | @mads-hartmann                   |
-| Go                                    | @golang                          |
-| Lua                                   | @sumneko                         |
-| rust-analyzer                         | @rust-lang                       |
-| Erlang LS                             | @erlang-ls                       |
-| ElixirLS: Elixir support and debugger | @Elixir Language Server Protocol |
+| Другие технологии | Автор          |
+| ----------------- | -------------- |
+| Bash IDE          | @mads-hartmann |
+| Lua               | @sumneko       |
+| rust-analyzer     | @rust-lang     |

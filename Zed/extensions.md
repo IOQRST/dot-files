@@ -26,17 +26,12 @@
 | Django                             |
 | Django Snippets                    |
 
-| Go                  |
-| ------------------- |
-| Go Snippets         |
-| Go Sum Highlighting |
-
 | Other      |
 | ---------- |
 | basher     |
 | Dockerfile |
-| Elixir     |
-| Erlang     |
 | Lua        |
+| Haxe       |
+| Zig        |
+| Oberon     |
 | Make       |
-| Ruby       |
